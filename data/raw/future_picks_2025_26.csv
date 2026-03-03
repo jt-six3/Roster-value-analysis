@@ -1,0 +1,421 @@
+team,pick_year,round,expected_pick_number,protection_note
+Atlanta Hawks,2026,1,,"More favorable of (i) less favorable of ATL and SAN and (ii) less favorable of (a) CLE and (b) more favorable of UTH 1-8 and MIN then less favorable of (i) and (ii) to CLE; more favorable of ATL and SAN to SAN (via UTH swap for MIN; via UTH swap of UTH or MIN for CLE; via SAN swap for ATL; via ATL swap of ATL or SAN for CLE, UTH or MIN); More favorable of NOP and MIL (via NOP swap for MIL)"
+Atlanta Hawks,2026,2,,"More favorable of (i) ATL and (ii) less favorable of (a) LAC and (b) most favorable of BOS, IND and MIA to BRK then less favorable of (i) and (ii) to DEN (via ATL to GOS to BRK; via MIA to IND to MIL to MEM; via LAC to HOU to BRK; via BRK to DEN); Less favorable of (i) BOS and (ii) more favorable of IND and MIA (via MIA to IND to MIL; via MEM swap of IND or MIA for BOS; via BOS to ATL)"
+Atlanta Hawks,2027,1,,To SAN; Less favorable of MIL and NOP if either or both 5-30 (via NOP)
+Atlanta Hawks,2027,2,,Own (via BOS to MEM to POR)
+Atlanta Hawks,2028,1,,More favorable of (i) ATL and (ii) less favorable of UTH and CLE then least favorable of all to CLE (via UTH swap for CLE; via ATL swap for UTH or CLE)
+Atlanta Hawks,2028,2,,To BRK (via GOS)
+Atlanta Hawks,2029,1,,Own
+Atlanta Hawks,2029,2,,More favorable of ATL and MIA to CHA then other to OKC (via OKC); CLE
+Atlanta Hawks,2030,1,,Own
+Atlanta Hawks,2030,2,,Own; NYK (via POR)
+Atlanta Hawks,2031,1,,Own
+Atlanta Hawks,2031,2,,Own or swap for HOU 31-55
+Atlanta Hawks,2032,1,,Own
+Atlanta Hawks,2032,2,,Own; LAL
+Boston Celtics,2026,1,,Own
+Boston Celtics,2026,2,,"Less favorable of (i) BOS and (ii) more favorable of IND and MIA to ATL then most favorable of all to MEM or to BRK (via MIA to IND to MIL; via MEM swap of IND or MIA for BOS; via BOS to ATL; via LAC to HOU to BRK); Most favorable of DET, MIL and ORL (via MIL to ORL; via DET to LAC to ORL)"
+Boston Celtics,2027,1,,Own
+Boston Celtics,2027,2,,More favorable of BOS and ORL to UTH then other to CHA (via BOS to ORL to BOS; via ORL to CHA)
+Boston Celtics,2028,1,,1-30 Own; 2-30 Own or SAN (via SAN swap for BOS)
+Boston Celtics,2028,2,,31-45 to SAN if BOS 1 in 2028; 46-60 to NYK (via ORL to PHX)
+Boston Celtics,2029,1,,"Most and least favorable of BOS, POR and MIL to POR; second most favorable to WAS (via BOS to POR; via MIL to POR; via POR to WAS)"
+Boston Celtics,2029,2,,To OKC
+Boston Celtics,2030,1,,Own
+Boston Celtics,2030,2,,To BRK (via HOU); CHA 56-60
+Boston Celtics,2031,1,,Own
+Boston Celtics,2031,2,,Less favorable of BOS and CLE then other to UTH (via CLE to ATL to BOS); HOU 56-60
+Boston Celtics,2032,1,,Frozen (through 2027-28)
+Boston Celtics,2032,2,,Own
+Brooklyn Nets,2026,1,,Own (via HOU)
+Brooklyn Nets,2026,2,,"31-55 Own; 56-60 to MIA; More favorable of (i) ATL and (ii) less favorable of (a) LAC and (b) most favorable of BOS, IND and MIA then less favorable of (i) and (ii) to DEN (via ATL to GOS to BRK; via LAC to HOU to BRK; via BRK to DEN)"
+Brooklyn Nets,2027,1,,Own or HOU (via HOU swap for BRK); NYK
+Brooklyn Nets,2027,2,,More favorable of BRK and DAL to WAS then other to DET (via DAL to BRK to DET; via DET to WAS); LAL if LAL conveys 1st round pick to UTH in 2027
+Brooklyn Nets,2028,1,,"Complex swap involving BRK, PHL, PHX, NYK, WAS (see original for details)"
+Brooklyn Nets,2028,2,,Own; ATL (via GOS); MEM (via PHX); PHL if PHL 1-8 in 2028
+Brooklyn Nets,2029,1,,"Own; Least favorable of DAL, PHX and HOU (via DAL and PHX to BRK; via HOU swap for DAL or PHX); NYK"
+Brooklyn Nets,2029,2,,Own; DAL; GOS; MEM (via PHX)
+Brooklyn Nets,2030,1,,Own
+Brooklyn Nets,2030,2,,Own; BOS (via HOU); DAL (via BOS to MEM); LAL
+Brooklyn Nets,2031,1,,Own; NYK
+Brooklyn Nets,2031,2,,Own; LAL
+Brooklyn Nets,2032,1,,Own; DEN
+Brooklyn Nets,2032,2,,Own; DEN; MIA; TOR
+Charlotte Hornets,2026,1,,"Own; Least favorable of PHX, WAS 1-8, ORL and MEM (via WAS swap for PHX; via MEM swap for PHX, WAS or ORL; via PHX to CHA)"
+Charlotte Hornets,2026,2,,31-55 to SAC; 56-60 to DET (via NYK to ATL to SAN to SAC); More favorable of DEN and GOS (via DEN to PHX; via GOS to ATL to OKC to NYK)
+Charlotte Hornets,2027,1,,Own; DAL 3-30; MIA 15-30
+Charlotte Hornets,2027,2,,To OKC if SAN 1-16 in 2027 or to SAC if SAN 17-30 in 2027; Less favorable of BOS and ORL; More favorable of POR and NOP (via POR)
+Charlotte Hornets,2028,1,,Own; MIA if not already settled
+Charlotte Hornets,2028,2,,More favorable of CHA and LAC then other to DET; MIA if DAL does not convey 1st round pick to CHA in 2027; ORL
+Charlotte Hornets,2029,1,,"Own; Least / less favorable of UTH, CLE and MIN 6-30 (via UTH to PHX)"
+Charlotte Hornets,2029,2,,Own; DEN if DEN has conveyed a first potential 1st round pick to OKC by 2029; More favorable of ATL and MIA (via OKC)
+Charlotte Hornets,2030,1,,Own
+Charlotte Hornets,2030,2,,31-55 Own; 56-60 to BOS; More favorable of UTH and LAC (via UTH)
+Charlotte Hornets,2031,1,,Own
+Charlotte Hornets,2031,2,,Own; MIL; PHX
+Charlotte Hornets,2032,1,,Own
+Charlotte Hornets,2032,2,,Own; MIL
+Chicago Bulls,2026,1,,Own; POR 15-30
+Chicago Bulls,2026,2,,"To HOU (via WAS); Less favorable of DEN and GOS (via DEN to PHX to CHA; via GOS to ATL to OKC to NYK to CHA; via CHA to PHX to MIN to CHI); Most favorable of MIN, NYK, NOP and POR (via MIN to NYK; via NOP to POR to NOP; via POR to DET to BOS to CHI)"
+Chicago Bulls,2027,1,,Own; POR 15-30 if not already settled
+Chicago Bulls,2027,2,,To DAL (via WAS to NOP to WAS); CLE (via ATL to MIN)
+Chicago Bulls,2028,1,,Own; POR 15-30 if not already settled
+Chicago Bulls,2028,2,,Own; POR if POR has not conveyed 1st round pick to CHI by 2028
+Chicago Bulls,2029,1,,Own
+Chicago Bulls,2029,2,,"Own; Least favorable of DET, MIL and NYK (via MIL to BRK to DET; via NYK to DET; via SAC to CHI)"
+Chicago Bulls,2030,1,,Own
+Chicago Bulls,2030,2,,Own
+Chicago Bulls,2031,1,,Own
+Chicago Bulls,2031,2,,Own; DEN (via PHX to CHA); More favorable of MIN and GOS (via MIN swap for GOS); NYK (via CHA)
+Chicago Bulls,2032,1,,Own
+Chicago Bulls,2032,2,,Own; More favorable of PHX and HOU (via PHX to MIN)
+Cleveland Cavaliers,2026,1,,"Less favorable of (i) less favorable of CLE and more favorable of UTH 1-8 and MIN and (ii) less favorable of ATL and SAN then more favorable of (i) and (ii) to ATL; most favorable of CLE, MIN and UTH 1-8 to UTH (via UTH swap for MIN; via UTH swap of UTH or MIN for CLE; via SAN swap for ATL)"
+Cleveland Cavaliers,2026,2,,To LAC
+Cleveland Cavaliers,2027,1,,"Most favorable of CLE, MIN and UTH to MEM; second most favorable to UTH and least favorable to PHX (via UTH)"
+Cleveland Cavaliers,2027,2,,To CHI (via ATL to MIN)
+Cleveland Cavaliers,2028,1,,"Least favorable of CLE, UTH and ATL; more favorable of CLE and UTH to UTH; more favorable of ATL and less favorable of CLE and UTH to ATL (via UTH swap for CLE; via ATL swap for CLE or UTH)"
+Cleveland Cavaliers,2028,2,,To UTH
+Cleveland Cavaliers,2029,1,,"Most / two most favorable of CLE, MIN 6-30 and UTH to UTH then other to CHA (via UTH to PHX)"
+Cleveland Cavaliers,2029,2,,To ATL
+Cleveland Cavaliers,2030,1,,Own
+Cleveland Cavaliers,2030,2,,To SAN
+Cleveland Cavaliers,2031,1,,Own
+Cleveland Cavaliers,2031,2,,More favorable of CLE and BOS to UTH then other to BOS (via CLE to ATL to BOS)
+Cleveland Cavaliers,2032,1,,Own
+Cleveland Cavaliers,2032,2,,To UTH
+Dallas Mavericks,2026,1,,"Own; Least / less favorable of OKC, HOU 5-30 and LAC (via OKC to PHL to WAS)"
+Dallas Mavericks,2026,2,,"Most favorable of DAL, OKC and PHL to OKC; second most favorable to PHX and least favorable to WAS (via OKC to HOU to PHX; via OKC to MIA to SAN to WAS); PHX (via WAS)"
+Dallas Mavericks,2027,1,,1-2 Own; 3-30 to CHA
+Dallas Mavericks,2027,2,,More favorable of DAL and BRK to WAS then other to DET (via DET to WAS; via DAL to BRK to DET); CHI (via WAS to NOP to WAS)
+Dallas Mavericks,2028,1,,Own or OKC (via OKC swap for DAL)
+Dallas Mavericks,2028,2,,To LAC (via SAC to IND)
+Dallas Mavericks,2029,1,,"Two most favorable of DAL, HOU and PHX to HOU then other to BRK (via DAL and PHX to BRK; via DAL or PHX to HOU); LAL"
+Dallas Mavericks,2029,2,,To BRK; HOU (via OKC to WAS)
+Dallas Mavericks,2030,1,,Own or SAN (via SAN swap for DAL); less favorable of MIN 2-30 and more favorable of DAL and SAN to MIN then most / more favorable of all to SAN; GOS 21-30 (via WAS)
+Dallas Mavericks,2030,2,,To BRK (via BOS to MEM); GOS if GOS does not convey 1st round pick to DAL in 2030; PHL
+Dallas Mavericks,2031,1,,Own
+Dallas Mavericks,2031,2,,To DET (via PHL)
+Dallas Mavericks,2032,1,,Own
+Dallas Mavericks,2032,2,,Own
+Denver Nuggets,2026,1,,Own
+Denver Nuggets,2026,2,,"More favorable of DEN and GOS to CHA then other to CHI (via DEN to PHX to CHA; via GOS to ATL to OKC to NYK to CHA; via CHA to PHX to MIN to CHI); Less favorable of ATL and less favorable of LAC and most favorable of BOS, IND and MIA (via ATL to GOS to BRK; via LAC to HOU to BRK; via BRK to DEN)"
+Denver Nuggets,2027,1,,"1-5 Own; two most / more favorable of DEN 6-30, OKC and LAC to OKC then other to LAC (via OKC swap of OKC or DEN for LAC)"
+Denver Nuggets,2027,2,,To UTH (via CLE to CHI to BOS)
+Denver Nuggets,2028,1,,1-5 Own; 6-30 to OKC if not already settled
+Denver Nuggets,2028,2,,31-33 Own; 34-60 to WAS (via SAN to SAC)
+Denver Nuggets,2029,1,,1-5 Own; 6-30 to OKC if not already settled
+Denver Nuggets,2029,2,,To CHA if DEN has conveyed a first potential 1st round pick to OKC by 2029 or to OKC if DEN has not
+Denver Nuggets,2030,1,,1-5 Own; 6-30 to OKC if not already settled and if DEN has conveyed a first potential 1st round pick to OKC by 2028
+Denver Nuggets,2030,2,,To OKC (direct or via CHA)
+Denver Nuggets,2031,1,,Own
+Denver Nuggets,2031,2,,To CHI (via PHX to CHA)
+Denver Nuggets,2032,1,,To BRK
+Denver Nuggets,2032,2,,To BRK
+Detroit Pistons,2026,1,,Own or swap for MIN 20-30
+Detroit Pistons,2026,2,,"Most favorable of DET, ORL and MIL to BOS; second most favorable to ORL and least favorable to NOP (via MIL to ORL; via DET to LAC to ORL); CHA 56-60 (via NYK to ATL to SAN to SAC)"
+Detroit Pistons,2027,1,,Own
+Detroit Pistons,2027,2,,Own; Less favorable of BRK and DAL (via DAL to BRK to DET); MIL (via PHL)
+Detroit Pistons,2028,1,,Own
+Detroit Pistons,2028,2,,31-55 Own*; 56-60 to PHL; Less favorable of CHA and LAC*; MIA* if DAL conveys 1st round pick to CHA in 2027; NYK* (*Least favorable of these to UTH)
+Detroit Pistons,2029,1,,Own
+Detroit Pistons,2029,2,,"Two most favorable of DET, MIL and NYK then other to CHI (via MIL to BRK to DET; via NYK to DET; via SAC to CHI)"
+Detroit Pistons,2030,1,,Own
+Detroit Pistons,2030,2,,Own; MIN
+Detroit Pistons,2031,1,,Own
+Detroit Pistons,2031,2,,Own; DAL (via PHL); Less favorable of GOS and MIN (via MIN swap for GOS)
+Detroit Pistons,2032,1,,Own
+Detroit Pistons,2032,2,,Own
+Golden State Warriors,2026,1,,Own
+Golden State Warriors,2026,2,,More favorable of GOS and DEN to CHA then other to CHI; LAL (via CLE to MIA to TOR)
+Golden State Warriors,2027,1,,Own
+Golden State Warriors,2027,2,,More favorable of GOS and PHX to PHL then other to WAS (via WAS)
+Golden State Warriors,2028,1,,Own
+Golden State Warriors,2028,2,,To PHL (via POR to WAS)
+Golden State Warriors,2029,1,,Own
+Golden State Warriors,2029,2,,To BRK
+Golden State Warriors,2030,1,,1-20 Own; 21-30 to DAL (via WAS)
+Golden State Warriors,2030,2,,To DAL if GOS does not convey 1st round pick to DAL in 2030 (via WAS)
+Golden State Warriors,2031,1,,Own
+Golden State Warriors,2031,2,,More favorable of GOS and MIN to CHI then other to DET (via MIN swap for GOS)
+Golden State Warriors,2032,1,,Own
+Golden State Warriors,2032,2,,31-50 Own; 51-60 to MEM
+Houston Rockets,2026,1,,"1-4 Own; most favorable of HOU 5-30, LAC and OKC to OKC; second most / more favorable to PHL and least / less favorable to DAL (via OKC to PHL to WAS to DAL)"
+Houston Rockets,2026,2,,To OKC if HOU 1-4 in 2026; CHI (via WAS)
+Houston Rockets,2027,1,,Own or swap for BRK; PHX (via BRK)
+Houston Rockets,2027,2,,"Most favorable of HOU, OKC, IND and MIA to PHL; second most favorable to NOP and third most favorable to NYK; more favorable of SAN and least favorable of HOU, OKC, IND and MIA to SAN then least favorable of all to MIA; MEM (via LAC); Less favorable of POR and NOP if 56-60"
+Houston Rockets,2028,1,,Own
+Houston Rockets,2028,2,,Own (via ATL)
+Houston Rockets,2029,1,,"Two most favorable of HOU, DAL and PHX then other to BRK (via DAL and PHX to BRK; via HOU swap for DAL or PHX)"
+Houston Rockets,2029,2,,To DAL (via OKC to WAS); SAC (via WAS)
+Houston Rockets,2030,1,,Own
+Houston Rockets,2030,2,,To OKC
+Houston Rockets,2031,1,,Own
+Houston Rockets,2031,2,,31-55 Own or ATL (via ATL swap for HOU); 56-60 to BOS
+Houston Rockets,2032,1,,Own
+Houston Rockets,2032,2,,More favorable of HOU and PHX to CHI then other to PHX (via PHX to MIN)
+Indiana Pacers,2026,1,,1-4 and 10-30 Own; 5-9 to LAC
+Indiana Pacers,2026,2,,More favorable of SAN and less favorable of IND and MIA to SAN then least favorable of all to MIN; Less favorable of BOS and more favorable of IND and MIA to ATL then most favorable of all to MEM or to BRK (via MIA to IND; via SAN swap for IND or MIA; via MIL to MEM; via BOS to ATL); TOR 56-60
+Indiana Pacers,2027,1,,Own
+Indiana Pacers,2027,2,,"Most favorable of IND, OKC, HOU and MIA to PHL; second most favorable to NOP and third most favorable to NYK; more favorable of SAN and least favorable of IND, OKC, HOU and MIA to SAN then least favorable of all to MIA; UTH (via CLE)"
+Indiana Pacers,2028,1,,Own
+Indiana Pacers,2028,2,,More favorable of IND and PHX then other to NYK (via IND)
+Indiana Pacers,2029,1,,To LAC
+Indiana Pacers,2029,2,,More favorable of IND and WAS then other to POR (via IND to NYK)
+Indiana Pacers,2030,1,,Own
+Indiana Pacers,2030,2,,Own
+Indiana Pacers,2031,1,,To LAC if IND does not convey 1st round pick to LAC in 2026
+Indiana Pacers,2031,2,,"Least favorable of IND, MIA and MEM; more favorable of IND and MIA to WAS; more favorable of MEM and less favorable of IND and MIA to MEM (via MIA swap for IND; via UTH to WAS; via MEM swap for IND or MIA)"
+Indiana Pacers,2032,1,,Own
+Indiana Pacers,2032,2,,Own
+Los Angeles Clippers,2026,1,,"Most favorable of LAC, HOU 5-30 and OKC to OKC; second most / more favorable to PHL and least / less favorable to DAL; IND 5-9"
+Los Angeles Clippers,2026,2,,"Less favorable of LAC and most favorable of BOS, IND and MIA to BRK then most favorable of all to MEM; CLE; MEM 31-42 (via UTH to ATL)"
+Los Angeles Clippers,2027,1,,"Least / less favorable of LAC, DEN 6-30 and OKC then other(s) to OKC (via OKC swap of OKC or DEN for LAC)"
+Los Angeles Clippers,2027,2,,To UTH (via ATL to LAC)
+Los Angeles Clippers,2028,1,,To PHL
+Los Angeles Clippers,2028,2,,More favorable of LAC and CHA to CHA then other to DET; DAL (via SAC to IND)
+Los Angeles Clippers,2029,1,,1-3 Own; 4-30 Own or PHL (via PHL swap for LAC); IND
+Los Angeles Clippers,2029,2,,To SAN (via PHL)
+Los Angeles Clippers,2030,1,,Own
+Los Angeles Clippers,2030,2,,More favorable of LAC and UTH to CHA then other to LAC (via LAC to UTH)
+Los Angeles Clippers,2031,1,,Own; IND if IND does not convey 1st round pick to LAC in 2026
+Los Angeles Clippers,2031,2,,Own
+Los Angeles Clippers,2032,1,,Own
+Los Angeles Clippers,2032,2,,Own
+Los Angeles Lakers,2026,1,,Own
+Los Angeles Lakers,2026,2,,To GOS (via CLE to MIA to TOR)
+Los Angeles Lakers,2027,1,,1-4 Own; 5-30 to MEM (via UTH)
+Los Angeles Lakers,2027,2,,To BRK if LAL conveys 1st round pick to MEM in 2027 or to MEM if LAL does not convey 1st round pick to MEM in 2027 (via UTH to MEM)
+Los Angeles Lakers,2028,1,,Own
+Los Angeles Lakers,2028,2,,More favorable of LAL and WAS to ORL then other to WAS (via WAS to LAL to ORL; via LAL to WAS)
+Los Angeles Lakers,2029,1,,To DAL
+Los Angeles Lakers,2029,2,,To WAS
+Los Angeles Lakers,2030,1,,Own
+Los Angeles Lakers,2030,2,,To BRK
+Los Angeles Lakers,2031,1,,Own
+Los Angeles Lakers,2031,2,,To BRK
+Los Angeles Lakers,2032,1,,Own
+Los Angeles Lakers,2032,2,,To ATL
+Memphis Grizzlies,2026,1,,"Two most favorable of MEM, less favorable of PHX and WAS 1-8, and ORL then least favorable of all to CHA (via WAS swap for PHX; via MEM swap of ORL for PHX or WAS; via PHX to CHA)"
+Memphis Grizzlies,2026,2,,"31-42 to LAC (via UTH to ATL); 43-60 to POR (via UTH to GOS); Most favorable of LAC, BOS, IND and MIA (via MIA to IND; via MIL to MEM; via MEM swap of IND or MIA for BOS; via MEM swap of BOS, IND or MIA for LAC)"
+Memphis Grizzlies,2027,1,,"Own; LAL 5-30; Most favorable of UTH, CLE and MIN (via UTH)"
+Memphis Grizzlies,2027,2,,To HOU (via LAC); LAL if LAL does not convey 1st round pick to MEM in 2027 (via UTH)
+Memphis Grizzlies,2028,1,,Own
+Memphis Grizzlies,2028,2,,To BRK (via PHX)
+Memphis Grizzlies,2029,1,,Own or swap for ORL 3-30
+Memphis Grizzlies,2029,2,,To BRK (via PHX); ORL if ORL 1-2 in 2029; POR (via PHL to IND)
+Memphis Grizzlies,2030,1,,More favorable of MEM and less favorable of PHX and WAS then least favorable of all to PHX; ORL
+Memphis Grizzlies,2030,2,,31-50 Own; 51-60 to MIN
+Memphis Grizzlies,2031,1,,Own; PHX (via UTH)
+Memphis Grizzlies,2031,2,,More favorable of MEM and less favorable of IND and MIA then least favorable of all to IND (via MIA swap for IND; via MEM swap for IND or MIA)
+Memphis Grizzlies,2032,1,,Own
+Memphis Grizzlies,2032,2,,Own or swap for PHL; GOS 51-60
+Miami Heat,2026,1,,Own
+Miami Heat,2026,2,,More favorable of SAN and less favorable of MIA and IND to SAN then least favorable of all to MIN; Less favorable of BOS and more favorable of MIA and IND to ATL then most favorable of all to MEM or to BRK; BRK 56-60
+Miami Heat,2027,1,,1-14 Own; 15-30 to CHA
+Miami Heat,2027,2,,"Least favorable of MIA, OKC, HOU, IND and SAN; most favorable of MIA, OKC, HOU and IND to PHL; second most favorable to NOP and third most favorable to NYK; more favorable of SAN and least favorable of MIA, OKC, HOU and IND to SAN"
+Miami Heat,2028,1,,To CHA if not already settled
+Miami Heat,2028,2,,To DET if DAL conveys 1st round pick to CHA in 2027 or to CHA if DAL does not convey 1st round pick to CHA in 2027
+Miami Heat,2029,1,,Own
+Miami Heat,2029,2,,More favorable of MIA and ATL to CHA then other to OKC (via OKC)
+Miami Heat,2030,1,,Own
+Miami Heat,2030,2,,To OKC
+Miami Heat,2031,1,,Own
+Miami Heat,2031,2,,More favorable of MIA and IND to WAS; more favorable of MEM and less favorable of MIA and IND to MEM then least favorable of all to IND (via MIA swap for IND; via UTH to WAS; via MEM swap for IND or MIA)
+Miami Heat,2032,1,,Own
+Miami Heat,2032,2,,To BRK
+Milwaukee Bucks,2026,1,,Less favorable of MIL and NOP then other to ATL (via NOP swap for MIL)
+Milwaukee Bucks,2026,2,,"Most favorable of MIL, ORL and DET to BOS; second most favorable to ORL and least favorable to NOP (via MIL to ORL; via DET to LAC to ORL); UTH 56-60 (via MIN to SAN)"
+Milwaukee Bucks,2027,1,,More favorable of MIL and NOP to NOP then other to ATL if 5-30 or MIL and NOP to NOP if both 1-4 (via NOP)
+Milwaukee Bucks,2027,2,,To DET (via PHL)
+Milwaukee Bucks,2028,1,,Less favorable of MIL and POR (with conditions) to WAS (see original for full details)
+Milwaukee Bucks,2028,2,,To PHL (via BRK to HOU to OKC)
+Milwaukee Bucks,2029,1,,"Most and least favorable of MIL, BOS and POR to POR; second most favorable to WAS (via BOS to POR; via MIL to POR; via POR to WAS)"
+Milwaukee Bucks,2029,2,,"Two most favorable of MIL, DET and NYK to DET then other to CHI (via MIL to BRK to DET; via NYK to DET; via SAC to CHI)"
+Milwaukee Bucks,2030,1,,Own or POR (via POR swap for MIL)
+Milwaukee Bucks,2030,2,,To ORL
+Milwaukee Bucks,2031,1,,Own
+Milwaukee Bucks,2031,2,,To CHA
+Milwaukee Bucks,2032,1,,Own
+Milwaukee Bucks,2032,2,,To CHA
+Minnesota Timberwolves,2026,1,,Less favorable of MIN 1-19 and UTH 1-8; less favorable of MIN 20-30 and DET then other to DET; less favorable of CLE and more favorable of MIN and UTH 1-8 to CLE then most favorable of all to UTH (via UTH swap for MIN; via UTH swap of UTH or MIN for CLE; via DET swap for MIN)
+Minnesota Timberwolves,2026,2,,"Less favorable of MIN and NYK to NYK; most favorable of MIN, NYK, NOP and POR to CHI; less favorable of more favorable of MIN and NYK and more favorable of NOP and POR to WAS; Least favorable of IND, MIA and SAN"
+Minnesota Timberwolves,2027,1,,"Most favorable of MIN, CLE and UTH to MEM; second most favorable to UTH and least favorable to PHX (via UTH)"
+Minnesota Timberwolves,2027,2,,To POR (via HOU to OKC to NYK)
+Minnesota Timberwolves,2028,1,,Own
+Minnesota Timberwolves,2028,2,,To SAN
+Minnesota Timberwolves,2029,1,,"1-5 Own; most / two most favorable of MIN 6-30, CLE and UTH to UTH then other to CHA (via UTH to PHX)"
+Minnesota Timberwolves,2029,2,,To UTH if MIN does not convey 1st round pick to UTH in 2029
+Minnesota Timberwolves,2030,1,,1 Own; less favorable of MIN 2-30 and more favorable of SAN and DAL then most / more favorable of all to SAN (via SAN swap for DAL)
+Minnesota Timberwolves,2030,2,,To DET; MEM 51-60
+Minnesota Timberwolves,2031,1,,To SAC (via SAN)
+Minnesota Timberwolves,2031,2,,More favorable of MIN and GOS to CHI then other to DET (via MIN swap for GOS)
+Minnesota Timberwolves,2032,1,,Frozen (through 2027-28)
+Minnesota Timberwolves,2032,2,,Own
+New Orleans Pelicans,2026,1,,More favorable of NOP and MIL to ATL then other to MIL (via NOP swap for MIL)
+New Orleans Pelicans,2026,2,,"Most favorable of NOP, POR, MIN and NYK to CHI; less favorable of NOP and POR to SAN; less favorable of more favorable of NOP and POR and more favorable of MIN and NYK to WAS; Least favorable of ORL, DET and MIL (via DET to LAC to ORL; via ORL to PHX to BRK to NYK to NOP)"
+New Orleans Pelicans,2027,1,,More favorable of NOP and MIL then other to ATL if 5-30 or NOP and MIL if both 1-4 (via NOP)
+New Orleans Pelicans,2027,2,,"More favorable of NOP and POR to CHA then other to POR [POR may convey to HOU] (via NOP); Second most favorable of OKC, HOU, IND and MIA (via HOU to DET to OKC to NYK)"
+New Orleans Pelicans,2028,1,,Own
+New Orleans Pelicans,2028,2,,To SAN
+New Orleans Pelicans,2029,1,,Own
+New Orleans Pelicans,2029,2,,To SAN
+New Orleans Pelicans,2030,1,,Own
+New Orleans Pelicans,2030,2,,Own or ORL (via ORL swap for NOP)
+New Orleans Pelicans,2031,1,,Own
+New Orleans Pelicans,2031,2,,More favorable of NOP and ORL to ORL then other to OKC (via ORL swap for NOP); TOR
+New Orleans Pelicans,2032,1,,Own
+New Orleans Pelicans,2032,2,,Own
+New York Knicks,2026,1,,Own; WAS 9-30 (via HOU to OKC)
+New York Knicks,2026,2,,"Less favorable of NYK and MIN; most favorable of NYK, MIN, NOP and POR to CHI; less favorable of more favorable of NYK and MIN and more favorable of NOP and POR to WAS; WAS if WAS does not convey 1st round pick to NYK in 2026"
+New York Knicks,2027,1,,To BRK
+New York Knicks,2027,2,,"Own; WAS if WAS does not convey 1st round pick to NYK in 2026; Third most favorable of OKC, HOU, IND and MIA"
+New York Knicks,2028,1,,"Least or second most favorable of NYK, BRK and PHX (with conditions); complex swap details — see original"
+New York Knicks,2028,2,,To DET; BOS 46-60 (via ORL to PHX); Less favorable of IND and PHX (via IND)
+New York Knicks,2029,1,,To BRK
+New York Knicks,2029,2,,"Two most favorable of NYK, DET and MIL to DET then other to CHI (via NYK to DET; via MIL to BRK to DET; via SAC to CHI)"
+New York Knicks,2030,1,,Own
+New York Knicks,2030,2,,To ATL (via POR)
+New York Knicks,2031,1,,To BRK
+New York Knicks,2031,2,,To CHI (via CHA)
+New York Knicks,2032,1,,Own
+New York Knicks,2032,2,,Own
+Oklahoma City Thunder,2026,1,,"Most favorable of OKC, HOU 5-30 and LAC; second most / more favorable to PHL and least / less favorable to DAL; PHL 5-30; UTH 9-30"
+Oklahoma City Thunder,2026,2,,"Most favorable of OKC, DAL and PHL; second most favorable to PHX and least favorable to WAS; HOU if HOU 1-4 in 2026"
+Oklahoma City Thunder,2027,1,,"Two most / more favorable of OKC, DEN 6-30 and LAC then other to LAC; PHL 5-30 if not already settled; SAN 17-30 (via SAC)"
+Oklahoma City Thunder,2027,2,,"Most favorable of OKC, HOU, IND and MIA to PHL; second most favorable to NOP and third most favorable to NYK; CHA if SAN 1-16 in 2027; SAC if SAN 1-16 in 2027; PHL if PHL has not conveyed 1st round pick to OKC by 2027"
+Oklahoma City Thunder,2028,1,,Own or swap for DAL; DEN 6-30 if not already settled
+Oklahoma City Thunder,2028,2,,To PHL; UTH
+Oklahoma City Thunder,2029,1,,Own; DEN 6-30 if not already settled
+Oklahoma City Thunder,2029,2,,Own; Less favorable of ATL and MIA; BOS; DEN if DEN has not conveyed a first potential 1st round pick to OKC by 2029
+Oklahoma City Thunder,2030,1,,Own; DEN 6-30 if not already settled and if DEN has conveyed a first potential 1st round pick to OKC by 2028
+Oklahoma City Thunder,2030,2,,Own; DEN (direct or via CHA); HOU; MIA
+Oklahoma City Thunder,2031,1,,Own
+Oklahoma City Thunder,2031,2,,Own; Less favorable of NOP and ORL (via ORL swap for NOP)
+Oklahoma City Thunder,2032,1,,Own
+Oklahoma City Thunder,2032,2,,Own
+Orlando Magic,2026,1,,"Two most favorable of ORL, less favorable of PHX and WAS 1-8, and MEM to MEM then least favorable of all to CHA"
+Orlando Magic,2026,2,,"Second most favorable of ORL, DET and MIL; most favorable to BOS and least favorable to NOP (via MIL to ORL; via DET to LAC to ORL)"
+Orlando Magic,2027,1,,Own
+Orlando Magic,2027,2,,More favorable of ORL and BOS to UTH then other to CHA (via BOS to ORL to BOS; via ORL to CHA)
+Orlando Magic,2028,1,,To POR (via MEM)
+Orlando Magic,2028,2,,To CHA; More favorable of LAL and WAS (via LAL)
+Orlando Magic,2029,1,,1-2 Own; 3-30 Own or MEM (via MEM swap for ORL)
+Orlando Magic,2029,2,,To MEM if ORL 1-2 in 2029
+Orlando Magic,2030,1,,To MEM
+Orlando Magic,2030,2,,Own or swap for NOP; MIL
+Orlando Magic,2031,1,,Own
+Orlando Magic,2031,2,,More favorable of ORL and NOP then other to OKC (via ORL swap for NOP)
+Orlando Magic,2032,1,,Own
+Orlando Magic,2032,2,,Own
+Philadelphia 76ers,2026,1,,"1-4 Own; 5-30 to OKC; Second most / more favorable of OKC, HOU 5-30 and LAC (via OKC)"
+Philadelphia 76ers,2026,2,,"Most favorable of PHL, OKC and DAL to OKC; second most favorable to PHX and least favorable to WAS"
+Philadelphia 76ers,2027,1,,1-4 Own; 5-30 to OKC if not already settled
+Philadelphia 76ers,2027,2,,"To OKC if PHL has not conveyed 1st round pick to OKC by 2027; More favorable of GOS and PHX (via WAS); Most favorable of OKC, HOU, IND and MIA"
+Philadelphia 76ers,2028,1,,"1-8 Own; complex swap conditions for 9-30 involving BRK, PHX, NYK, WAS; LAC"
+Philadelphia 76ers,2028,2,,To BRK if PHL 1-8 in 2028; DET 56-60; GOS (via POR to WAS); MIL (via BRK to HOU to OKC); OKC
+Philadelphia 76ers,2029,1,,Own or swap for LAC 4-30
+Philadelphia 76ers,2029,2,,Own
+Philadelphia 76ers,2030,1,,Own
+Philadelphia 76ers,2030,2,,To DAL; More favorable of PHX and POR (via WAS); WAS
+Philadelphia 76ers,2031,1,,Own
+Philadelphia 76ers,2031,2,,Own
+Philadelphia 76ers,2032,1,,Own
+Philadelphia 76ers,2032,2,,Own or MEM (via MEM swap for PHL)
+Phoenix Suns,2026,1,,"More favorable of PHX and WAS 1-8 to WAS; two most favorable of less favorable of PHX and WAS 1-8, MEM and ORL to MEM then least favorable of all to CHA"
+Phoenix Suns,2026,2,,"To DAL (via WAS); Second most favorable of OKC, DAL and PHL (via OKC to HOU)"
+Phoenix Suns,2027,1,,"To HOU (via BRK); Least favorable of UTH, CLE and MIN (via UTH)"
+Phoenix Suns,2027,2,,More favorable of PHX and GOS to PHL then other to WAS (via WAS)
+Phoenix Suns,2028,1,,"Least favorable of PHX, PHL 9-30 if PHL conveys 1st round pick to OKC in 2026, WAS and BRK (complex swap conditions — see original)"
+Phoenix Suns,2028,2,,More favorable of PHX and IND to IND then other to NYK (via IND)
+Phoenix Suns,2029,1,,"Two most favorable of PHX, DAL and HOU to HOU then other to BRK (via DAL and PHX to BRK; via HOU swap for DAL or PHX)"
+Phoenix Suns,2029,2,,Own (via OKC to CHA)
+Phoenix Suns,2030,1,,"Least favorable of PHX, WAS and MEM; more favorable of PHX and WAS to WAS; more favorable of MEM and less favorable of PHX and WAS to MEM (via WAS swap for PHX; via MEM swap for PHX or WAS)"
+Phoenix Suns,2030,2,,More favorable of PHX and POR to PHL then other to WAS (via WAS)
+Phoenix Suns,2031,1,,To MEM (via UTH)
+Phoenix Suns,2031,2,,To CHA
+Phoenix Suns,2032,1,,Frozen (through 2027-28)
+Phoenix Suns,2032,2,,Less favorable of PHX and HOU then other to CHI (via PHX to MIN)
+Portland Trail Blazers,2026,1,,1-14 Own; 15-30 to CHI
+Portland Trail Blazers,2026,2,,"Most favorable of POR, NOP, MIN and NYK to CHI; less favorable of POR and NOP to SAN; less favorable of more favorable of POR and NOP and more favorable of MIN and NYK to WAS; MEM 43-60 (via UTH to GOS)"
+Portland Trail Blazers,2027,1,,1-14 Own; 15-30 to CHI if not already settled
+Portland Trail Blazers,2027,2,,Less favorable of POR and NOP then other to CHA; less favorable of POR and NOP to HOU if 56-60; MIN (via HOU to OKC to NYK)
+Portland Trail Blazers,2028,1,,1-14 Own or swap for MIL; 15-30 to CHI if not already settled; ORL (via MEM)
+Portland Trail Blazers,2028,2,,To CHI if POR has not conveyed 1st round pick to CHI by 2028; SAC (via CHI to SAC to MEM)
+Portland Trail Blazers,2029,1,,"Most and least favorable of POR, BOS and MIL; second most favorable to WAS (via BOS to POR; via MIL to POR; via POR to WAS)"
+Portland Trail Blazers,2029,2,,To MEM (via PHL to IND); Less favorable of IND and WAS (via IND to NYK)
+Portland Trail Blazers,2030,1,,Own or swap for MIL
+Portland Trail Blazers,2030,2,,More favorable of POR and PHX to PHL then other to WAS (via WAS)
+Portland Trail Blazers,2031,1,,Own
+Portland Trail Blazers,2031,2,,Own
+Portland Trail Blazers,2032,1,,Own
+Portland Trail Blazers,2032,2,,Own
+Sacramento Kings,2026,1,,Own
+Sacramento Kings,2026,2,,Own; CHA 31-55 (via NYK to ATL to SAN)
+Sacramento Kings,2027,1,,Own; SAN 1-16
+Sacramento Kings,2027,2,,To OKC if SAN 1-16 in 2027; CHA if SAN 17-30 in 2027 (via NYK to ATL to SAN)
+Sacramento Kings,2028,1,,Own
+Sacramento Kings,2028,2,,To POR (via CHI to SAC to MEM)
+Sacramento Kings,2029,1,,Own
+Sacramento Kings,2029,2,,To HOU (via WAS)
+Sacramento Kings,2030,1,,Own
+Sacramento Kings,2030,2,,To SAN (via IND)
+Sacramento Kings,2031,1,,Own or SAN (via SAN swap for SAC); MIN (via SAN)
+Sacramento Kings,2031,2,,To SAN
+Sacramento Kings,2032,1,,Own
+Sacramento Kings,2032,2,,Own
+San Antonio Spurs,2026,1,,Own or swap for ATL [ATL may convey to CLE]
+San Antonio Spurs,2026,2,,More favorable of SAN and less favorable of IND and MIA then least favorable of all to MIN; Less favorable of NOP and POR (via NOP to POR to NOP to SAN); UTH 31-55 (via MIN)
+San Antonio Spurs,2027,1,,1-16 to SAC; 17-30 to OKC (via SAC); ATL
+San Antonio Spurs,2027,2,,"More favorable of SAN and least favorable of OKC, HOU, IND and MIA then least favorable of all to MIA"
+San Antonio Spurs,2028,1,,Own or swap for BOS 2-30
+San Antonio Spurs,2028,2,,Own; BOS 31-45 if BOS 1 in 2028; MIN; NOP
+San Antonio Spurs,2029,1,,Own
+San Antonio Spurs,2029,2,,Own; LAC (via PHL); NOP
+San Antonio Spurs,2030,1,,"Most / more favorable of SAN, DAL and MIN 2-30; less favorable of SAN and DAL to DAL; less favorable of MIN 2-30 and more favorable of SAN and DAL to MIN (via SAN swap for DAL; via SAN swap of SAN or DAL for MIN)"
+San Antonio Spurs,2030,2,,Own; CLE; SAC (via IND)
+San Antonio Spurs,2031,1,,Own or swap for SAC
+San Antonio Spurs,2031,2,,Own; SAC
+San Antonio Spurs,2032,1,,Own
+San Antonio Spurs,2032,2,,Own
+Toronto Raptors,2026,1,,Own
+Toronto Raptors,2026,2,,31-55 Own; 56-60 to IND
+Toronto Raptors,2027,1,,Own
+Toronto Raptors,2027,2,,Own
+Toronto Raptors,2028,1,,Own
+Toronto Raptors,2028,2,,Own
+Toronto Raptors,2029,1,,Own
+Toronto Raptors,2029,2,,Own
+Toronto Raptors,2030,1,,Own
+Toronto Raptors,2030,2,,Own
+Toronto Raptors,2031,1,,Own
+Toronto Raptors,2031,2,,To NOP
+Toronto Raptors,2032,1,,Own
+Toronto Raptors,2032,2,,To BRK
+Utah Jazz,2026,1,,"Most favorable of UTH 1-8, MIN and CLE; less favorable of UTH 1-8 and MIN to MIN; less favorable of CLE and more favorable of UTH 1-8 and MIN to CLE; UTH 9-30 to OKC (via UTH swap for MIN; via UTH swap of UTH or MIN for CLE)"
+Utah Jazz,2026,2,,31-55 to SAN; 56-60 to MIL (via MIN to SAN)
+Utah Jazz,2027,1,,"Second most favorable of UTH, CLE and MIN; most favorable to MEM and least favorable to PHX (via UTH)"
+Utah Jazz,2027,2,,To IND (via CLE); More favorable of BOS and ORL (via BOS to ORL to BOS); DEN (via CLE to CHI to BOS); LAC (via ATL to LAC)
+Utah Jazz,2028,1,,Own or swap for CLE [CLE may convey UTH to ATL]
+Utah Jazz,2028,2,,"To OKC; CLE; Least favorable of DET 31-55, less favorable of CHA and LAC, MIA if DAL conveys 1st round pick to CHA in 2027, and NYK (via DET)"
+Utah Jazz,2029,1,,"Most / two most favorable of UTH, CLE and MIN 6-30 then other to CHA (via UTH to PHX)"
+Utah Jazz,2029,2,,Own; MIN if MIN does not convey 1st round pick to UTH in 2029
+Utah Jazz,2030,1,,Own
+Utah Jazz,2030,2,,Less favorable of UTH and LAC then other to CHA (via LAC to UTH)
+Utah Jazz,2031,1,,Own
+Utah Jazz,2031,2,,Own; More favorable of BOS and CLE (via CLE to ATL to BOS)
+Utah Jazz,2032,1,,Own
+Utah Jazz,2032,2,,To WAS; CLE
+Washington Wizards,2026,1,,"1-8 Own or swap for PHX; two most favorable of less favorable of WAS 1-8 and PHX, MEM and ORL to MEM then least favorable of all to CHA; WAS 9-30 to NYK (via HOU to OKC)"
+Washington Wizards,2026,2,,"To NYK if WAS does not convey 1st round pick to NYK in 2026; Less favorable of more favorable of MIN and NYK and more favorable of NOP and POR; Least favorable of OKC, DAL and PHL (via OKC to MIA to SAN)"
+Washington Wizards,2027,1,,Own
+Washington Wizards,2027,2,,To NYK if WAS does not convey 1st round pick to NYK in 2026; More favorable of BRK and DAL (via DAL to BRK to DET; via DET to WAS); Less favorable of GOS and PHX
+Washington Wizards,2028,1,,"More favorable of WAS and least / less favorable of BRK, PHL 9-30 and PHX; complex swap with MIL and POR (see original for full conditions)"
+Washington Wizards,2028,2,,Less favorable of WAS and LAL then other to ORL (via WAS to LAL to ORL; via LAL to WAS); DEN 34-60 (via SAN to SAC)
+Washington Wizards,2029,1,,"Own; Second most favorable of POR, BOS and MIL (via BOS to POR; via MIL to POR; via POR to WAS)"
+Washington Wizards,2029,2,,More favorable of WAS and IND to IND then other to POR (via IND to NYK); LAL
+Washington Wizards,2030,1,,More favorable of WAS and PHX; more favorable of MEM and less favorable of WAS and PHX to MEM then least favorable of all to PHX
+Washington Wizards,2030,2,,To PHL; Less favorable of PHX and POR
+Washington Wizards,2031,1,,Own
+Washington Wizards,2031,2,,Own; More favorable of MIA and IND (via MIA swap for IND; via UTH)
+Washington Wizards,2032,1,,Own
+Washington Wizards,2032,2,,Own; UTH

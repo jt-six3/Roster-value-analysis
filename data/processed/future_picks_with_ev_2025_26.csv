@@ -1,421 +1,421 @@
-team,pick_year,round,expected_pick_number,protection_note,ev_points,years_out,discount_factor,pv_ev_points
-Atlanta Hawks,2026,1,18,"More favorable of (i) less favorable of ATL and SAN and (ii) less favorable of (a) CLE and (b) more favorable of UTH 1-8 and MIN then less favorable of (i) and (ii) to CLE; more favorable of ATL and SAN to SAN (via UTH swap for MIN; via UTH swap of UTH or MIN for CLE; via SAN swap for ATL; via ATL swap of ATL or SAN for CLE, UTH or MIN); More favorable of NOP and MIL (via NOP swap for MIL)",27.5,0,1.0,27.5
-Atlanta Hawks,2026,2,45,"More favorable of (i) ATL and (ii) less favorable of (a) LAC and (b) most favorable of BOS, IND and MIA to BRK then less favorable of (i) and (ii) to DEN (via ATL to GOS to BRK; via MIA to IND to MIL to MEM; via LAC to HOU to BRK; via BRK to DEN); Less favorable of (i) BOS and (ii) more favorable of IND and MIA (via MIA to IND to MIL; via MEM swap of IND or MIA for BOS; via BOS to ATL)",12.941176470588236,0,1.0,12.941176470588236
-Atlanta Hawks,2027,1,18,To SAN; Less favorable of MIL and NOP if either or both 5-30 (via NOP),27.5,1,0.9090909090909091,25.0
-Atlanta Hawks,2027,2,45,Own (via BOS to MEM to POR),12.941176470588236,1,0.9090909090909091,11.76470588235294
-Atlanta Hawks,2028,1,18,More favorable of (i) ATL and (ii) less favorable of UTH and CLE then least favorable of all to CLE (via UTH swap for CLE; via ATL swap for UTH or CLE),27.5,2,0.8264462809917354,22.727272727272727
-Atlanta Hawks,2028,2,45,To BRK (via GOS),12.941176470588236,2,0.8264462809917354,10.6951871657754
-Atlanta Hawks,2029,1,18,Own,27.5,3,0.7513148009015775,20.661157024793383
-Atlanta Hawks,2029,2,45,More favorable of ATL and MIA to CHA then other to OKC (via OKC); CLE,12.941176470588236,3,0.7513148009015775,9.72289742343218
-Atlanta Hawks,2030,1,18,Own,27.5,4,0.6830134553650705,18.782870022539438
-Atlanta Hawks,2030,2,45,Own; NYK (via POR),12.941176470588236,4,0.6830134553650705,8.838997657665619
-Atlanta Hawks,2031,1,18,Own,27.5,5,0.6209213230591549,17.07533638412676
-Atlanta Hawks,2031,2,45,Own or swap for HOU 31-55,12.941176470588236,5,0.6209213230591549,8.035452416059652
-Atlanta Hawks,2032,1,18,Own,27.5,6,0.5644739300537772,15.523033076478873
-Atlanta Hawks,2032,2,45,Own; LAL,12.941176470588236,6,0.5644739300537772,7.304956741872411
-Boston Celtics,2026,1,18,Own,27.5,0,1.0,27.5
-Boston Celtics,2026,2,45,"Less favorable of (i) BOS and (ii) more favorable of IND and MIA to ATL then most favorable of all to MEM or to BRK (via MIA to IND to MIL; via MEM swap of IND or MIA for BOS; via BOS to ATL; via LAC to HOU to BRK); Most favorable of DET, MIL and ORL (via MIL to ORL; via DET to LAC to ORL)",12.941176470588236,0,1.0,12.941176470588236
-Boston Celtics,2027,1,18,Own,27.5,1,0.9090909090909091,25.0
-Boston Celtics,2027,2,45,More favorable of BOS and ORL to UTH then other to CHA (via BOS to ORL to BOS; via ORL to CHA),12.941176470588236,1,0.9090909090909091,11.76470588235294
-Boston Celtics,2028,1,18,1-30 Own; 2-30 Own or SAN (via SAN swap for BOS),27.5,2,0.8264462809917354,22.727272727272727
-Boston Celtics,2028,2,45,31-45 to SAN if BOS 1 in 2028; 46-60 to NYK (via ORL to PHX),12.941176470588236,2,0.8264462809917354,10.6951871657754
-Boston Celtics,2029,1,18,"Most and least favorable of BOS, POR and MIL to POR; second most favorable to WAS (via BOS to POR; via MIL to POR; via POR to WAS)",27.5,3,0.7513148009015775,20.661157024793383
-Boston Celtics,2029,2,45,To OKC,12.941176470588236,3,0.7513148009015775,9.72289742343218
-Boston Celtics,2030,1,18,Own,27.5,4,0.6830134553650705,18.782870022539438
-Boston Celtics,2030,2,45,To BRK (via HOU); CHA 56-60,12.941176470588236,4,0.6830134553650705,8.838997657665619
-Boston Celtics,2031,1,18,Own,27.5,5,0.6209213230591549,17.07533638412676
-Boston Celtics,2031,2,45,Less favorable of BOS and CLE then other to UTH (via CLE to ATL to BOS); HOU 56-60,12.941176470588236,5,0.6209213230591549,8.035452416059652
-Boston Celtics,2032,1,18,Frozen (through 2027-28),27.5,6,0.5644739300537772,15.523033076478873
-Boston Celtics,2032,2,45,Own,12.941176470588236,6,0.5644739300537772,7.304956741872411
-Brooklyn Nets,2026,1,18,Own (via HOU),27.5,0,1.0,27.5
-Brooklyn Nets,2026,2,45,"31-55 Own; 56-60 to MIA; More favorable of (i) ATL and (ii) less favorable of (a) LAC and (b) most favorable of BOS, IND and MIA then less favorable of (i) and (ii) to DEN (via ATL to GOS to BRK; via LAC to HOU to BRK; via BRK to DEN)",12.941176470588236,0,1.0,12.941176470588236
-Brooklyn Nets,2027,1,18,Own or HOU (via HOU swap for BRK); NYK,27.5,1,0.9090909090909091,25.0
-Brooklyn Nets,2027,2,45,More favorable of BRK and DAL to WAS then other to DET (via DAL to BRK to DET; via DET to WAS); LAL if LAL conveys 1st round pick to UTH in 2027,12.941176470588236,1,0.9090909090909091,11.76470588235294
-Brooklyn Nets,2028,1,18,"Complex swap involving BRK, PHL, PHX, NYK, WAS (see original for details)",27.5,2,0.8264462809917354,22.727272727272727
-Brooklyn Nets,2028,2,45,Own; ATL (via GOS); MEM (via PHX); PHL if PHL 1-8 in 2028,12.941176470588236,2,0.8264462809917354,10.6951871657754
-Brooklyn Nets,2029,1,18,"Own; Least favorable of DAL, PHX and HOU (via DAL and PHX to BRK; via HOU swap for DAL or PHX); NYK",27.5,3,0.7513148009015775,20.661157024793383
-Brooklyn Nets,2029,2,45,Own; DAL; GOS; MEM (via PHX),12.941176470588236,3,0.7513148009015775,9.72289742343218
-Brooklyn Nets,2030,1,18,Own,27.5,4,0.6830134553650705,18.782870022539438
-Brooklyn Nets,2030,2,45,Own; BOS (via HOU); DAL (via BOS to MEM); LAL,12.941176470588236,4,0.6830134553650705,8.838997657665619
-Brooklyn Nets,2031,1,18,Own; NYK,27.5,5,0.6209213230591549,17.07533638412676
-Brooklyn Nets,2031,2,45,Own; LAL,12.941176470588236,5,0.6209213230591549,8.035452416059652
-Brooklyn Nets,2032,1,18,Own; DEN,27.5,6,0.5644739300537772,15.523033076478873
-Brooklyn Nets,2032,2,45,Own; DEN; MIA; TOR,12.941176470588236,6,0.5644739300537772,7.304956741872411
-Charlotte Hornets,2026,1,18,"Own; Least favorable of PHX, WAS 1-8, ORL and MEM (via WAS swap for PHX; via MEM swap for PHX, WAS or ORL; via PHX to CHA)",27.5,0,1.0,27.5
-Charlotte Hornets,2026,2,45,31-55 to SAC; 56-60 to DET (via NYK to ATL to SAN to SAC); More favorable of DEN and GOS (via DEN to PHX; via GOS to ATL to OKC to NYK),12.941176470588236,0,1.0,12.941176470588236
-Charlotte Hornets,2027,1,18,Own; DAL 3-30; MIA 15-30,27.5,1,0.9090909090909091,25.0
-Charlotte Hornets,2027,2,45,To OKC if SAN 1-16 in 2027 or to SAC if SAN 17-30 in 2027; Less favorable of BOS and ORL; More favorable of POR and NOP (via POR),12.941176470588236,1,0.9090909090909091,11.76470588235294
-Charlotte Hornets,2028,1,18,Own; MIA if not already settled,27.5,2,0.8264462809917354,22.727272727272727
-Charlotte Hornets,2028,2,45,More favorable of CHA and LAC then other to DET; MIA if DAL does not convey 1st round pick to CHA in 2027; ORL,12.941176470588236,2,0.8264462809917354,10.6951871657754
-Charlotte Hornets,2029,1,18,"Own; Least / less favorable of UTH, CLE and MIN 6-30 (via UTH to PHX)",27.5,3,0.7513148009015775,20.661157024793383
-Charlotte Hornets,2029,2,45,Own; DEN if DEN has conveyed a first potential 1st round pick to OKC by 2029; More favorable of ATL and MIA (via OKC),12.941176470588236,3,0.7513148009015775,9.72289742343218
-Charlotte Hornets,2030,1,18,Own,27.5,4,0.6830134553650705,18.782870022539438
-Charlotte Hornets,2030,2,45,31-55 Own; 56-60 to BOS; More favorable of UTH and LAC (via UTH),12.941176470588236,4,0.6830134553650705,8.838997657665619
-Charlotte Hornets,2031,1,18,Own,27.5,5,0.6209213230591549,17.07533638412676
-Charlotte Hornets,2031,2,45,Own; MIL; PHX,12.941176470588236,5,0.6209213230591549,8.035452416059652
-Charlotte Hornets,2032,1,18,Own,27.5,6,0.5644739300537772,15.523033076478873
-Charlotte Hornets,2032,2,45,Own; MIL,12.941176470588236,6,0.5644739300537772,7.304956741872411
-Chicago Bulls,2026,1,18,Own; POR 15-30,27.5,0,1.0,27.5
-Chicago Bulls,2026,2,45,"To HOU (via WAS); Less favorable of DEN and GOS (via DEN to PHX to CHA; via GOS to ATL to OKC to NYK to CHA; via CHA to PHX to MIN to CHI); Most favorable of MIN, NYK, NOP and POR (via MIN to NYK; via NOP to POR to NOP; via POR to DET to BOS to CHI)",12.941176470588236,0,1.0,12.941176470588236
-Chicago Bulls,2027,1,18,Own; POR 15-30 if not already settled,27.5,1,0.9090909090909091,25.0
-Chicago Bulls,2027,2,45,To DAL (via WAS to NOP to WAS); CLE (via ATL to MIN),12.941176470588236,1,0.9090909090909091,11.76470588235294
-Chicago Bulls,2028,1,18,Own; POR 15-30 if not already settled,27.5,2,0.8264462809917354,22.727272727272727
-Chicago Bulls,2028,2,45,Own; POR if POR has not conveyed 1st round pick to CHI by 2028,12.941176470588236,2,0.8264462809917354,10.6951871657754
-Chicago Bulls,2029,1,18,Own,27.5,3,0.7513148009015775,20.661157024793383
-Chicago Bulls,2029,2,45,"Own; Least favorable of DET, MIL and NYK (via MIL to BRK to DET; via NYK to DET; via SAC to CHI)",12.941176470588236,3,0.7513148009015775,9.72289742343218
-Chicago Bulls,2030,1,18,Own,27.5,4,0.6830134553650705,18.782870022539438
-Chicago Bulls,2030,2,45,Own,12.941176470588236,4,0.6830134553650705,8.838997657665619
-Chicago Bulls,2031,1,18,Own,27.5,5,0.6209213230591549,17.07533638412676
-Chicago Bulls,2031,2,45,Own; DEN (via PHX to CHA); More favorable of MIN and GOS (via MIN swap for GOS); NYK (via CHA),12.941176470588236,5,0.6209213230591549,8.035452416059652
-Chicago Bulls,2032,1,18,Own,27.5,6,0.5644739300537772,15.523033076478873
-Chicago Bulls,2032,2,45,Own; More favorable of PHX and HOU (via PHX to MIN),12.941176470588236,6,0.5644739300537772,7.304956741872411
-Cleveland Cavaliers,2026,1,18,"Less favorable of (i) less favorable of CLE and more favorable of UTH 1-8 and MIN and (ii) less favorable of ATL and SAN then more favorable of (i) and (ii) to ATL; most favorable of CLE, MIN and UTH 1-8 to UTH (via UTH swap for MIN; via UTH swap of UTH or MIN for CLE; via SAN swap for ATL)",27.5,0,1.0,27.5
-Cleveland Cavaliers,2026,2,45,To LAC,12.941176470588236,0,1.0,12.941176470588236
-Cleveland Cavaliers,2027,1,18,"Most favorable of CLE, MIN and UTH to MEM; second most favorable to UTH and least favorable to PHX (via UTH)",27.5,1,0.9090909090909091,25.0
-Cleveland Cavaliers,2027,2,45,To CHI (via ATL to MIN),12.941176470588236,1,0.9090909090909091,11.76470588235294
-Cleveland Cavaliers,2028,1,18,"Least favorable of CLE, UTH and ATL; more favorable of CLE and UTH to UTH; more favorable of ATL and less favorable of CLE and UTH to ATL (via UTH swap for CLE; via ATL swap for CLE or UTH)",27.5,2,0.8264462809917354,22.727272727272727
-Cleveland Cavaliers,2028,2,45,To UTH,12.941176470588236,2,0.8264462809917354,10.6951871657754
-Cleveland Cavaliers,2029,1,18,"Most / two most favorable of CLE, MIN 6-30 and UTH to UTH then other to CHA (via UTH to PHX)",27.5,3,0.7513148009015775,20.661157024793383
-Cleveland Cavaliers,2029,2,45,To ATL,12.941176470588236,3,0.7513148009015775,9.72289742343218
-Cleveland Cavaliers,2030,1,18,Own,27.5,4,0.6830134553650705,18.782870022539438
-Cleveland Cavaliers,2030,2,45,To SAN,12.941176470588236,4,0.6830134553650705,8.838997657665619
-Cleveland Cavaliers,2031,1,18,Own,27.5,5,0.6209213230591549,17.07533638412676
-Cleveland Cavaliers,2031,2,45,More favorable of CLE and BOS to UTH then other to BOS (via CLE to ATL to BOS),12.941176470588236,5,0.6209213230591549,8.035452416059652
-Cleveland Cavaliers,2032,1,18,Own,27.5,6,0.5644739300537772,15.523033076478873
-Cleveland Cavaliers,2032,2,45,To UTH,12.941176470588236,6,0.5644739300537772,7.304956741872411
-Dallas Mavericks,2026,1,18,"Own; Least / less favorable of OKC, HOU 5-30 and LAC (via OKC to PHL to WAS)",27.5,0,1.0,27.5
-Dallas Mavericks,2026,2,45,"Most favorable of DAL, OKC and PHL to OKC; second most favorable to PHX and least favorable to WAS (via OKC to HOU to PHX; via OKC to MIA to SAN to WAS); PHX (via WAS)",12.941176470588236,0,1.0,12.941176470588236
-Dallas Mavericks,2027,1,18,1-2 Own; 3-30 to CHA,27.5,1,0.9090909090909091,25.0
-Dallas Mavericks,2027,2,45,More favorable of DAL and BRK to WAS then other to DET (via DET to WAS; via DAL to BRK to DET); CHI (via WAS to NOP to WAS),12.941176470588236,1,0.9090909090909091,11.76470588235294
-Dallas Mavericks,2028,1,18,Own or OKC (via OKC swap for DAL),27.5,2,0.8264462809917354,22.727272727272727
-Dallas Mavericks,2028,2,45,To LAC (via SAC to IND),12.941176470588236,2,0.8264462809917354,10.6951871657754
-Dallas Mavericks,2029,1,18,"Two most favorable of DAL, HOU and PHX to HOU then other to BRK (via DAL and PHX to BRK; via DAL or PHX to HOU); LAL",27.5,3,0.7513148009015775,20.661157024793383
-Dallas Mavericks,2029,2,45,To BRK; HOU (via OKC to WAS),12.941176470588236,3,0.7513148009015775,9.72289742343218
-Dallas Mavericks,2030,1,18,Own or SAN (via SAN swap for DAL); less favorable of MIN 2-30 and more favorable of DAL and SAN to MIN then most / more favorable of all to SAN; GOS 21-30 (via WAS),27.5,4,0.6830134553650705,18.782870022539438
-Dallas Mavericks,2030,2,45,To BRK (via BOS to MEM); GOS if GOS does not convey 1st round pick to DAL in 2030; PHL,12.941176470588236,4,0.6830134553650705,8.838997657665619
-Dallas Mavericks,2031,1,18,Own,27.5,5,0.6209213230591549,17.07533638412676
-Dallas Mavericks,2031,2,45,To DET (via PHL),12.941176470588236,5,0.6209213230591549,8.035452416059652
-Dallas Mavericks,2032,1,18,Own,27.5,6,0.5644739300537772,15.523033076478873
-Dallas Mavericks,2032,2,45,Own,12.941176470588236,6,0.5644739300537772,7.304956741872411
-Denver Nuggets,2026,1,18,Own,27.5,0,1.0,27.5
-Denver Nuggets,2026,2,45,"More favorable of DEN and GOS to CHA then other to CHI (via DEN to PHX to CHA; via GOS to ATL to OKC to NYK to CHA; via CHA to PHX to MIN to CHI); Less favorable of ATL and less favorable of LAC and most favorable of BOS, IND and MIA (via ATL to GOS to BRK; via LAC to HOU to BRK; via BRK to DEN)",12.941176470588236,0,1.0,12.941176470588236
-Denver Nuggets,2027,1,18,"1-5 Own; two most / more favorable of DEN 6-30, OKC and LAC to OKC then other to LAC (via OKC swap of OKC or DEN for LAC)",27.5,1,0.9090909090909091,25.0
-Denver Nuggets,2027,2,45,To UTH (via CLE to CHI to BOS),12.941176470588236,1,0.9090909090909091,11.76470588235294
-Denver Nuggets,2028,1,18,1-5 Own; 6-30 to OKC if not already settled,27.5,2,0.8264462809917354,22.727272727272727
-Denver Nuggets,2028,2,45,31-33 Own; 34-60 to WAS (via SAN to SAC),12.941176470588236,2,0.8264462809917354,10.6951871657754
-Denver Nuggets,2029,1,18,1-5 Own; 6-30 to OKC if not already settled,27.5,3,0.7513148009015775,20.661157024793383
-Denver Nuggets,2029,2,45,To CHA if DEN has conveyed a first potential 1st round pick to OKC by 2029 or to OKC if DEN has not,12.941176470588236,3,0.7513148009015775,9.72289742343218
-Denver Nuggets,2030,1,18,1-5 Own; 6-30 to OKC if not already settled and if DEN has conveyed a first potential 1st round pick to OKC by 2028,27.5,4,0.6830134553650705,18.782870022539438
-Denver Nuggets,2030,2,45,To OKC (direct or via CHA),12.941176470588236,4,0.6830134553650705,8.838997657665619
-Denver Nuggets,2031,1,18,Own,27.5,5,0.6209213230591549,17.07533638412676
-Denver Nuggets,2031,2,45,To CHI (via PHX to CHA),12.941176470588236,5,0.6209213230591549,8.035452416059652
-Denver Nuggets,2032,1,18,To BRK,27.5,6,0.5644739300537772,15.523033076478873
-Denver Nuggets,2032,2,45,To BRK,12.941176470588236,6,0.5644739300537772,7.304956741872411
-Detroit Pistons,2026,1,18,Own or swap for MIN 20-30,27.5,0,1.0,27.5
-Detroit Pistons,2026,2,45,"Most favorable of DET, ORL and MIL to BOS; second most favorable to ORL and least favorable to NOP (via MIL to ORL; via DET to LAC to ORL); CHA 56-60 (via NYK to ATL to SAN to SAC)",12.941176470588236,0,1.0,12.941176470588236
-Detroit Pistons,2027,1,18,Own,27.5,1,0.9090909090909091,25.0
-Detroit Pistons,2027,2,45,Own; Less favorable of BRK and DAL (via DAL to BRK to DET); MIL (via PHL),12.941176470588236,1,0.9090909090909091,11.76470588235294
-Detroit Pistons,2028,1,18,Own,27.5,2,0.8264462809917354,22.727272727272727
-Detroit Pistons,2028,2,45,31-55 Own*; 56-60 to PHL; Less favorable of CHA and LAC*; MIA* if DAL conveys 1st round pick to CHA in 2027; NYK* (*Least favorable of these to UTH),12.941176470588236,2,0.8264462809917354,10.6951871657754
-Detroit Pistons,2029,1,18,Own,27.5,3,0.7513148009015775,20.661157024793383
-Detroit Pistons,2029,2,45,"Two most favorable of DET, MIL and NYK then other to CHI (via MIL to BRK to DET; via NYK to DET; via SAC to CHI)",12.941176470588236,3,0.7513148009015775,9.72289742343218
-Detroit Pistons,2030,1,18,Own,27.5,4,0.6830134553650705,18.782870022539438
-Detroit Pistons,2030,2,45,Own; MIN,12.941176470588236,4,0.6830134553650705,8.838997657665619
-Detroit Pistons,2031,1,18,Own,27.5,5,0.6209213230591549,17.07533638412676
-Detroit Pistons,2031,2,45,Own; DAL (via PHL); Less favorable of GOS and MIN (via MIN swap for GOS),12.941176470588236,5,0.6209213230591549,8.035452416059652
-Detroit Pistons,2032,1,18,Own,27.5,6,0.5644739300537772,15.523033076478873
-Detroit Pistons,2032,2,45,Own,12.941176470588236,6,0.5644739300537772,7.304956741872411
-Golden State Warriors,2026,1,18,Own,27.5,0,1.0,27.5
-Golden State Warriors,2026,2,45,More favorable of GOS and DEN to CHA then other to CHI; LAL (via CLE to MIA to TOR),12.941176470588236,0,1.0,12.941176470588236
-Golden State Warriors,2027,1,18,Own,27.5,1,0.9090909090909091,25.0
-Golden State Warriors,2027,2,45,More favorable of GOS and PHX to PHL then other to WAS (via WAS),12.941176470588236,1,0.9090909090909091,11.76470588235294
-Golden State Warriors,2028,1,18,Own,27.5,2,0.8264462809917354,22.727272727272727
-Golden State Warriors,2028,2,45,To PHL (via POR to WAS),12.941176470588236,2,0.8264462809917354,10.6951871657754
-Golden State Warriors,2029,1,18,Own,27.5,3,0.7513148009015775,20.661157024793383
-Golden State Warriors,2029,2,45,To BRK,12.941176470588236,3,0.7513148009015775,9.72289742343218
-Golden State Warriors,2030,1,18,1-20 Own; 21-30 to DAL (via WAS),27.5,4,0.6830134553650705,18.782870022539438
-Golden State Warriors,2030,2,45,To DAL if GOS does not convey 1st round pick to DAL in 2030 (via WAS),12.941176470588236,4,0.6830134553650705,8.838997657665619
-Golden State Warriors,2031,1,18,Own,27.5,5,0.6209213230591549,17.07533638412676
-Golden State Warriors,2031,2,45,More favorable of GOS and MIN to CHI then other to DET (via MIN swap for GOS),12.941176470588236,5,0.6209213230591549,8.035452416059652
-Golden State Warriors,2032,1,18,Own,27.5,6,0.5644739300537772,15.523033076478873
-Golden State Warriors,2032,2,45,31-50 Own; 51-60 to MEM,12.941176470588236,6,0.5644739300537772,7.304956741872411
-Houston Rockets,2026,1,18,"1-4 Own; most favorable of HOU 5-30, LAC and OKC to OKC; second most / more favorable to PHL and least / less favorable to DAL (via OKC to PHL to WAS to DAL)",27.5,0,1.0,27.5
-Houston Rockets,2026,2,45,To OKC if HOU 1-4 in 2026; CHI (via WAS),12.941176470588236,0,1.0,12.941176470588236
-Houston Rockets,2027,1,18,Own or swap for BRK; PHX (via BRK),27.5,1,0.9090909090909091,25.0
-Houston Rockets,2027,2,45,"Most favorable of HOU, OKC, IND and MIA to PHL; second most favorable to NOP and third most favorable to NYK; more favorable of SAN and least favorable of HOU, OKC, IND and MIA to SAN then least favorable of all to MIA; MEM (via LAC); Less favorable of POR and NOP if 56-60",12.941176470588236,1,0.9090909090909091,11.76470588235294
-Houston Rockets,2028,1,18,Own,27.5,2,0.8264462809917354,22.727272727272727
-Houston Rockets,2028,2,45,Own (via ATL),12.941176470588236,2,0.8264462809917354,10.6951871657754
-Houston Rockets,2029,1,18,"Two most favorable of HOU, DAL and PHX then other to BRK (via DAL and PHX to BRK; via HOU swap for DAL or PHX)",27.5,3,0.7513148009015775,20.661157024793383
-Houston Rockets,2029,2,45,To DAL (via OKC to WAS); SAC (via WAS),12.941176470588236,3,0.7513148009015775,9.72289742343218
-Houston Rockets,2030,1,18,Own,27.5,4,0.6830134553650705,18.782870022539438
-Houston Rockets,2030,2,45,To OKC,12.941176470588236,4,0.6830134553650705,8.838997657665619
-Houston Rockets,2031,1,18,Own,27.5,5,0.6209213230591549,17.07533638412676
-Houston Rockets,2031,2,45,31-55 Own or ATL (via ATL swap for HOU); 56-60 to BOS,12.941176470588236,5,0.6209213230591549,8.035452416059652
-Houston Rockets,2032,1,18,Own,27.5,6,0.5644739300537772,15.523033076478873
-Houston Rockets,2032,2,45,More favorable of HOU and PHX to CHI then other to PHX (via PHX to MIN),12.941176470588236,6,0.5644739300537772,7.304956741872411
-Indiana Pacers,2026,1,18,1-4 and 10-30 Own; 5-9 to LAC,27.5,0,1.0,27.5
-Indiana Pacers,2026,2,45,More favorable of SAN and less favorable of IND and MIA to SAN then least favorable of all to MIN; Less favorable of BOS and more favorable of IND and MIA to ATL then most favorable of all to MEM or to BRK (via MIA to IND; via SAN swap for IND or MIA; via MIL to MEM; via BOS to ATL); TOR 56-60,12.941176470588236,0,1.0,12.941176470588236
-Indiana Pacers,2027,1,18,Own,27.5,1,0.9090909090909091,25.0
-Indiana Pacers,2027,2,45,"Most favorable of IND, OKC, HOU and MIA to PHL; second most favorable to NOP and third most favorable to NYK; more favorable of SAN and least favorable of IND, OKC, HOU and MIA to SAN then least favorable of all to MIA; UTH (via CLE)",12.941176470588236,1,0.9090909090909091,11.76470588235294
-Indiana Pacers,2028,1,18,Own,27.5,2,0.8264462809917354,22.727272727272727
-Indiana Pacers,2028,2,45,More favorable of IND and PHX then other to NYK (via IND),12.941176470588236,2,0.8264462809917354,10.6951871657754
-Indiana Pacers,2029,1,18,To LAC,27.5,3,0.7513148009015775,20.661157024793383
-Indiana Pacers,2029,2,45,More favorable of IND and WAS then other to POR (via IND to NYK),12.941176470588236,3,0.7513148009015775,9.72289742343218
-Indiana Pacers,2030,1,18,Own,27.5,4,0.6830134553650705,18.782870022539438
-Indiana Pacers,2030,2,45,Own,12.941176470588236,4,0.6830134553650705,8.838997657665619
-Indiana Pacers,2031,1,18,To LAC if IND does not convey 1st round pick to LAC in 2026,27.5,5,0.6209213230591549,17.07533638412676
-Indiana Pacers,2031,2,45,"Least favorable of IND, MIA and MEM; more favorable of IND and MIA to WAS; more favorable of MEM and less favorable of IND and MIA to MEM (via MIA swap for IND; via UTH to WAS; via MEM swap for IND or MIA)",12.941176470588236,5,0.6209213230591549,8.035452416059652
-Indiana Pacers,2032,1,18,Own,27.5,6,0.5644739300537772,15.523033076478873
-Indiana Pacers,2032,2,45,Own,12.941176470588236,6,0.5644739300537772,7.304956741872411
-Los Angeles Clippers,2026,1,18,"Most favorable of LAC, HOU 5-30 and OKC to OKC; second most / more favorable to PHL and least / less favorable to DAL; IND 5-9",27.5,0,1.0,27.5
-Los Angeles Clippers,2026,2,45,"Less favorable of LAC and most favorable of BOS, IND and MIA to BRK then most favorable of all to MEM; CLE; MEM 31-42 (via UTH to ATL)",12.941176470588236,0,1.0,12.941176470588236
-Los Angeles Clippers,2027,1,18,"Least / less favorable of LAC, DEN 6-30 and OKC then other(s) to OKC (via OKC swap of OKC or DEN for LAC)",27.5,1,0.9090909090909091,25.0
-Los Angeles Clippers,2027,2,45,To UTH (via ATL to LAC),12.941176470588236,1,0.9090909090909091,11.76470588235294
-Los Angeles Clippers,2028,1,18,To PHL,27.5,2,0.8264462809917354,22.727272727272727
-Los Angeles Clippers,2028,2,45,More favorable of LAC and CHA to CHA then other to DET; DAL (via SAC to IND),12.941176470588236,2,0.8264462809917354,10.6951871657754
-Los Angeles Clippers,2029,1,18,1-3 Own; 4-30 Own or PHL (via PHL swap for LAC); IND,27.5,3,0.7513148009015775,20.661157024793383
-Los Angeles Clippers,2029,2,45,To SAN (via PHL),12.941176470588236,3,0.7513148009015775,9.72289742343218
-Los Angeles Clippers,2030,1,18,Own,27.5,4,0.6830134553650705,18.782870022539438
-Los Angeles Clippers,2030,2,45,More favorable of LAC and UTH to CHA then other to LAC (via LAC to UTH),12.941176470588236,4,0.6830134553650705,8.838997657665619
-Los Angeles Clippers,2031,1,18,Own; IND if IND does not convey 1st round pick to LAC in 2026,27.5,5,0.6209213230591549,17.07533638412676
-Los Angeles Clippers,2031,2,45,Own,12.941176470588236,5,0.6209213230591549,8.035452416059652
-Los Angeles Clippers,2032,1,18,Own,27.5,6,0.5644739300537772,15.523033076478873
-Los Angeles Clippers,2032,2,45,Own,12.941176470588236,6,0.5644739300537772,7.304956741872411
-Los Angeles Lakers,2026,1,18,Own,27.5,0,1.0,27.5
-Los Angeles Lakers,2026,2,45,To GOS (via CLE to MIA to TOR),12.941176470588236,0,1.0,12.941176470588236
-Los Angeles Lakers,2027,1,18,1-4 Own; 5-30 to MEM (via UTH),27.5,1,0.9090909090909091,25.0
-Los Angeles Lakers,2027,2,45,To BRK if LAL conveys 1st round pick to MEM in 2027 or to MEM if LAL does not convey 1st round pick to MEM in 2027 (via UTH to MEM),12.941176470588236,1,0.9090909090909091,11.76470588235294
-Los Angeles Lakers,2028,1,18,Own,27.5,2,0.8264462809917354,22.727272727272727
-Los Angeles Lakers,2028,2,45,More favorable of LAL and WAS to ORL then other to WAS (via WAS to LAL to ORL; via LAL to WAS),12.941176470588236,2,0.8264462809917354,10.6951871657754
-Los Angeles Lakers,2029,1,18,To DAL,27.5,3,0.7513148009015775,20.661157024793383
-Los Angeles Lakers,2029,2,45,To WAS,12.941176470588236,3,0.7513148009015775,9.72289742343218
-Los Angeles Lakers,2030,1,18,Own,27.5,4,0.6830134553650705,18.782870022539438
-Los Angeles Lakers,2030,2,45,To BRK,12.941176470588236,4,0.6830134553650705,8.838997657665619
-Los Angeles Lakers,2031,1,18,Own,27.5,5,0.6209213230591549,17.07533638412676
-Los Angeles Lakers,2031,2,45,To BRK,12.941176470588236,5,0.6209213230591549,8.035452416059652
-Los Angeles Lakers,2032,1,18,Own,27.5,6,0.5644739300537772,15.523033076478873
-Los Angeles Lakers,2032,2,45,To ATL,12.941176470588236,6,0.5644739300537772,7.304956741872411
-Memphis Grizzlies,2026,1,18,"Two most favorable of MEM, less favorable of PHX and WAS 1-8, and ORL then least favorable of all to CHA (via WAS swap for PHX; via MEM swap of ORL for PHX or WAS; via PHX to CHA)",27.5,0,1.0,27.5
-Memphis Grizzlies,2026,2,45,"31-42 to LAC (via UTH to ATL); 43-60 to POR (via UTH to GOS); Most favorable of LAC, BOS, IND and MIA (via MIA to IND; via MIL to MEM; via MEM swap of IND or MIA for BOS; via MEM swap of BOS, IND or MIA for LAC)",12.941176470588236,0,1.0,12.941176470588236
-Memphis Grizzlies,2027,1,18,"Own; LAL 5-30; Most favorable of UTH, CLE and MIN (via UTH)",27.5,1,0.9090909090909091,25.0
-Memphis Grizzlies,2027,2,45,To HOU (via LAC); LAL if LAL does not convey 1st round pick to MEM in 2027 (via UTH),12.941176470588236,1,0.9090909090909091,11.76470588235294
-Memphis Grizzlies,2028,1,18,Own,27.5,2,0.8264462809917354,22.727272727272727
-Memphis Grizzlies,2028,2,45,To BRK (via PHX),12.941176470588236,2,0.8264462809917354,10.6951871657754
-Memphis Grizzlies,2029,1,18,Own or swap for ORL 3-30,27.5,3,0.7513148009015775,20.661157024793383
-Memphis Grizzlies,2029,2,45,To BRK (via PHX); ORL if ORL 1-2 in 2029; POR (via PHL to IND),12.941176470588236,3,0.7513148009015775,9.72289742343218
-Memphis Grizzlies,2030,1,18,More favorable of MEM and less favorable of PHX and WAS then least favorable of all to PHX; ORL,27.5,4,0.6830134553650705,18.782870022539438
-Memphis Grizzlies,2030,2,45,31-50 Own; 51-60 to MIN,12.941176470588236,4,0.6830134553650705,8.838997657665619
-Memphis Grizzlies,2031,1,18,Own; PHX (via UTH),27.5,5,0.6209213230591549,17.07533638412676
-Memphis Grizzlies,2031,2,45,More favorable of MEM and less favorable of IND and MIA then least favorable of all to IND (via MIA swap for IND; via MEM swap for IND or MIA),12.941176470588236,5,0.6209213230591549,8.035452416059652
-Memphis Grizzlies,2032,1,18,Own,27.5,6,0.5644739300537772,15.523033076478873
-Memphis Grizzlies,2032,2,45,Own or swap for PHL; GOS 51-60,12.941176470588236,6,0.5644739300537772,7.304956741872411
-Miami Heat,2026,1,18,Own,27.5,0,1.0,27.5
-Miami Heat,2026,2,45,More favorable of SAN and less favorable of MIA and IND to SAN then least favorable of all to MIN; Less favorable of BOS and more favorable of MIA and IND to ATL then most favorable of all to MEM or to BRK; BRK 56-60,12.941176470588236,0,1.0,12.941176470588236
-Miami Heat,2027,1,18,1-14 Own; 15-30 to CHA,27.5,1,0.9090909090909091,25.0
-Miami Heat,2027,2,45,"Least favorable of MIA, OKC, HOU, IND and SAN; most favorable of MIA, OKC, HOU and IND to PHL; second most favorable to NOP and third most favorable to NYK; more favorable of SAN and least favorable of MIA, OKC, HOU and IND to SAN",12.941176470588236,1,0.9090909090909091,11.76470588235294
-Miami Heat,2028,1,18,To CHA if not already settled,27.5,2,0.8264462809917354,22.727272727272727
-Miami Heat,2028,2,45,To DET if DAL conveys 1st round pick to CHA in 2027 or to CHA if DAL does not convey 1st round pick to CHA in 2027,12.941176470588236,2,0.8264462809917354,10.6951871657754
-Miami Heat,2029,1,18,Own,27.5,3,0.7513148009015775,20.661157024793383
-Miami Heat,2029,2,45,More favorable of MIA and ATL to CHA then other to OKC (via OKC),12.941176470588236,3,0.7513148009015775,9.72289742343218
-Miami Heat,2030,1,18,Own,27.5,4,0.6830134553650705,18.782870022539438
-Miami Heat,2030,2,45,To OKC,12.941176470588236,4,0.6830134553650705,8.838997657665619
-Miami Heat,2031,1,18,Own,27.5,5,0.6209213230591549,17.07533638412676
-Miami Heat,2031,2,45,More favorable of MIA and IND to WAS; more favorable of MEM and less favorable of MIA and IND to MEM then least favorable of all to IND (via MIA swap for IND; via UTH to WAS; via MEM swap for IND or MIA),12.941176470588236,5,0.6209213230591549,8.035452416059652
-Miami Heat,2032,1,18,Own,27.5,6,0.5644739300537772,15.523033076478873
-Miami Heat,2032,2,45,To BRK,12.941176470588236,6,0.5644739300537772,7.304956741872411
-Milwaukee Bucks,2026,1,18,Less favorable of MIL and NOP then other to ATL (via NOP swap for MIL),27.5,0,1.0,27.5
-Milwaukee Bucks,2026,2,45,"Most favorable of MIL, ORL and DET to BOS; second most favorable to ORL and least favorable to NOP (via MIL to ORL; via DET to LAC to ORL); UTH 56-60 (via MIN to SAN)",12.941176470588236,0,1.0,12.941176470588236
-Milwaukee Bucks,2027,1,18,More favorable of MIL and NOP to NOP then other to ATL if 5-30 or MIL and NOP to NOP if both 1-4 (via NOP),27.5,1,0.9090909090909091,25.0
-Milwaukee Bucks,2027,2,45,To DET (via PHL),12.941176470588236,1,0.9090909090909091,11.76470588235294
-Milwaukee Bucks,2028,1,18,Less favorable of MIL and POR (with conditions) to WAS (see original for full details),27.5,2,0.8264462809917354,22.727272727272727
-Milwaukee Bucks,2028,2,45,To PHL (via BRK to HOU to OKC),12.941176470588236,2,0.8264462809917354,10.6951871657754
-Milwaukee Bucks,2029,1,18,"Most and least favorable of MIL, BOS and POR to POR; second most favorable to WAS (via BOS to POR; via MIL to POR; via POR to WAS)",27.5,3,0.7513148009015775,20.661157024793383
-Milwaukee Bucks,2029,2,45,"Two most favorable of MIL, DET and NYK to DET then other to CHI (via MIL to BRK to DET; via NYK to DET; via SAC to CHI)",12.941176470588236,3,0.7513148009015775,9.72289742343218
-Milwaukee Bucks,2030,1,18,Own or POR (via POR swap for MIL),27.5,4,0.6830134553650705,18.782870022539438
-Milwaukee Bucks,2030,2,45,To ORL,12.941176470588236,4,0.6830134553650705,8.838997657665619
-Milwaukee Bucks,2031,1,18,Own,27.5,5,0.6209213230591549,17.07533638412676
-Milwaukee Bucks,2031,2,45,To CHA,12.941176470588236,5,0.6209213230591549,8.035452416059652
-Milwaukee Bucks,2032,1,18,Own,27.5,6,0.5644739300537772,15.523033076478873
-Milwaukee Bucks,2032,2,45,To CHA,12.941176470588236,6,0.5644739300537772,7.304956741872411
-Minnesota Timberwolves,2026,1,18,Less favorable of MIN 1-19 and UTH 1-8; less favorable of MIN 20-30 and DET then other to DET; less favorable of CLE and more favorable of MIN and UTH 1-8 to CLE then most favorable of all to UTH (via UTH swap for MIN; via UTH swap of UTH or MIN for CLE; via DET swap for MIN),27.5,0,1.0,27.5
-Minnesota Timberwolves,2026,2,45,"Less favorable of MIN and NYK to NYK; most favorable of MIN, NYK, NOP and POR to CHI; less favorable of more favorable of MIN and NYK and more favorable of NOP and POR to WAS; Least favorable of IND, MIA and SAN",12.941176470588236,0,1.0,12.941176470588236
-Minnesota Timberwolves,2027,1,18,"Most favorable of MIN, CLE and UTH to MEM; second most favorable to UTH and least favorable to PHX (via UTH)",27.5,1,0.9090909090909091,25.0
-Minnesota Timberwolves,2027,2,45,To POR (via HOU to OKC to NYK),12.941176470588236,1,0.9090909090909091,11.76470588235294
-Minnesota Timberwolves,2028,1,18,Own,27.5,2,0.8264462809917354,22.727272727272727
-Minnesota Timberwolves,2028,2,45,To SAN,12.941176470588236,2,0.8264462809917354,10.6951871657754
-Minnesota Timberwolves,2029,1,18,"1-5 Own; most / two most favorable of MIN 6-30, CLE and UTH to UTH then other to CHA (via UTH to PHX)",27.5,3,0.7513148009015775,20.661157024793383
-Minnesota Timberwolves,2029,2,45,To UTH if MIN does not convey 1st round pick to UTH in 2029,12.941176470588236,3,0.7513148009015775,9.72289742343218
-Minnesota Timberwolves,2030,1,18,1 Own; less favorable of MIN 2-30 and more favorable of SAN and DAL then most / more favorable of all to SAN (via SAN swap for DAL),27.5,4,0.6830134553650705,18.782870022539438
-Minnesota Timberwolves,2030,2,45,To DET; MEM 51-60,12.941176470588236,4,0.6830134553650705,8.838997657665619
-Minnesota Timberwolves,2031,1,18,To SAC (via SAN),27.5,5,0.6209213230591549,17.07533638412676
-Minnesota Timberwolves,2031,2,45,More favorable of MIN and GOS to CHI then other to DET (via MIN swap for GOS),12.941176470588236,5,0.6209213230591549,8.035452416059652
-Minnesota Timberwolves,2032,1,18,Frozen (through 2027-28),27.5,6,0.5644739300537772,15.523033076478873
-Minnesota Timberwolves,2032,2,45,Own,12.941176470588236,6,0.5644739300537772,7.304956741872411
-New Orleans Pelicans,2026,1,18,More favorable of NOP and MIL to ATL then other to MIL (via NOP swap for MIL),27.5,0,1.0,27.5
-New Orleans Pelicans,2026,2,45,"Most favorable of NOP, POR, MIN and NYK to CHI; less favorable of NOP and POR to SAN; less favorable of more favorable of NOP and POR and more favorable of MIN and NYK to WAS; Least favorable of ORL, DET and MIL (via DET to LAC to ORL; via ORL to PHX to BRK to NYK to NOP)",12.941176470588236,0,1.0,12.941176470588236
-New Orleans Pelicans,2027,1,18,More favorable of NOP and MIL then other to ATL if 5-30 or NOP and MIL if both 1-4 (via NOP),27.5,1,0.9090909090909091,25.0
-New Orleans Pelicans,2027,2,45,"More favorable of NOP and POR to CHA then other to POR [POR may convey to HOU] (via NOP); Second most favorable of OKC, HOU, IND and MIA (via HOU to DET to OKC to NYK)",12.941176470588236,1,0.9090909090909091,11.76470588235294
-New Orleans Pelicans,2028,1,18,Own,27.5,2,0.8264462809917354,22.727272727272727
-New Orleans Pelicans,2028,2,45,To SAN,12.941176470588236,2,0.8264462809917354,10.6951871657754
-New Orleans Pelicans,2029,1,18,Own,27.5,3,0.7513148009015775,20.661157024793383
-New Orleans Pelicans,2029,2,45,To SAN,12.941176470588236,3,0.7513148009015775,9.72289742343218
-New Orleans Pelicans,2030,1,18,Own,27.5,4,0.6830134553650705,18.782870022539438
-New Orleans Pelicans,2030,2,45,Own or ORL (via ORL swap for NOP),12.941176470588236,4,0.6830134553650705,8.838997657665619
-New Orleans Pelicans,2031,1,18,Own,27.5,5,0.6209213230591549,17.07533638412676
-New Orleans Pelicans,2031,2,45,More favorable of NOP and ORL to ORL then other to OKC (via ORL swap for NOP); TOR,12.941176470588236,5,0.6209213230591549,8.035452416059652
-New Orleans Pelicans,2032,1,18,Own,27.5,6,0.5644739300537772,15.523033076478873
-New Orleans Pelicans,2032,2,45,Own,12.941176470588236,6,0.5644739300537772,7.304956741872411
-New York Knicks,2026,1,18,Own; WAS 9-30 (via HOU to OKC),27.5,0,1.0,27.5
-New York Knicks,2026,2,45,"Less favorable of NYK and MIN; most favorable of NYK, MIN, NOP and POR to CHI; less favorable of more favorable of NYK and MIN and more favorable of NOP and POR to WAS; WAS if WAS does not convey 1st round pick to NYK in 2026",12.941176470588236,0,1.0,12.941176470588236
-New York Knicks,2027,1,18,To BRK,27.5,1,0.9090909090909091,25.0
-New York Knicks,2027,2,45,"Own; WAS if WAS does not convey 1st round pick to NYK in 2026; Third most favorable of OKC, HOU, IND and MIA",12.941176470588236,1,0.9090909090909091,11.76470588235294
-New York Knicks,2028,1,18,"Least or second most favorable of NYK, BRK and PHX (with conditions); complex swap details — see original",27.5,2,0.8264462809917354,22.727272727272727
-New York Knicks,2028,2,45,To DET; BOS 46-60 (via ORL to PHX); Less favorable of IND and PHX (via IND),12.941176470588236,2,0.8264462809917354,10.6951871657754
-New York Knicks,2029,1,18,To BRK,27.5,3,0.7513148009015775,20.661157024793383
-New York Knicks,2029,2,45,"Two most favorable of NYK, DET and MIL to DET then other to CHI (via NYK to DET; via MIL to BRK to DET; via SAC to CHI)",12.941176470588236,3,0.7513148009015775,9.72289742343218
-New York Knicks,2030,1,18,Own,27.5,4,0.6830134553650705,18.782870022539438
-New York Knicks,2030,2,45,To ATL (via POR),12.941176470588236,4,0.6830134553650705,8.838997657665619
-New York Knicks,2031,1,18,To BRK,27.5,5,0.6209213230591549,17.07533638412676
-New York Knicks,2031,2,45,To CHI (via CHA),12.941176470588236,5,0.6209213230591549,8.035452416059652
-New York Knicks,2032,1,18,Own,27.5,6,0.5644739300537772,15.523033076478873
-New York Knicks,2032,2,45,Own,12.941176470588236,6,0.5644739300537772,7.304956741872411
-Oklahoma City Thunder,2026,1,18,"Most favorable of OKC, HOU 5-30 and LAC; second most / more favorable to PHL and least / less favorable to DAL; PHL 5-30; UTH 9-30",27.5,0,1.0,27.5
-Oklahoma City Thunder,2026,2,45,"Most favorable of OKC, DAL and PHL; second most favorable to PHX and least favorable to WAS; HOU if HOU 1-4 in 2026",12.941176470588236,0,1.0,12.941176470588236
-Oklahoma City Thunder,2027,1,18,"Two most / more favorable of OKC, DEN 6-30 and LAC then other to LAC; PHL 5-30 if not already settled; SAN 17-30 (via SAC)",27.5,1,0.9090909090909091,25.0
-Oklahoma City Thunder,2027,2,45,"Most favorable of OKC, HOU, IND and MIA to PHL; second most favorable to NOP and third most favorable to NYK; CHA if SAN 1-16 in 2027; SAC if SAN 1-16 in 2027; PHL if PHL has not conveyed 1st round pick to OKC by 2027",12.941176470588236,1,0.9090909090909091,11.76470588235294
-Oklahoma City Thunder,2028,1,18,Own or swap for DAL; DEN 6-30 if not already settled,27.5,2,0.8264462809917354,22.727272727272727
-Oklahoma City Thunder,2028,2,45,To PHL; UTH,12.941176470588236,2,0.8264462809917354,10.6951871657754
-Oklahoma City Thunder,2029,1,18,Own; DEN 6-30 if not already settled,27.5,3,0.7513148009015775,20.661157024793383
-Oklahoma City Thunder,2029,2,45,Own; Less favorable of ATL and MIA; BOS; DEN if DEN has not conveyed a first potential 1st round pick to OKC by 2029,12.941176470588236,3,0.7513148009015775,9.72289742343218
-Oklahoma City Thunder,2030,1,18,Own; DEN 6-30 if not already settled and if DEN has conveyed a first potential 1st round pick to OKC by 2028,27.5,4,0.6830134553650705,18.782870022539438
-Oklahoma City Thunder,2030,2,45,Own; DEN (direct or via CHA); HOU; MIA,12.941176470588236,4,0.6830134553650705,8.838997657665619
-Oklahoma City Thunder,2031,1,18,Own,27.5,5,0.6209213230591549,17.07533638412676
-Oklahoma City Thunder,2031,2,45,Own; Less favorable of NOP and ORL (via ORL swap for NOP),12.941176470588236,5,0.6209213230591549,8.035452416059652
-Oklahoma City Thunder,2032,1,18,Own,27.5,6,0.5644739300537772,15.523033076478873
-Oklahoma City Thunder,2032,2,45,Own,12.941176470588236,6,0.5644739300537772,7.304956741872411
-Orlando Magic,2026,1,18,"Two most favorable of ORL, less favorable of PHX and WAS 1-8, and MEM to MEM then least favorable of all to CHA",27.5,0,1.0,27.5
-Orlando Magic,2026,2,45,"Second most favorable of ORL, DET and MIL; most favorable to BOS and least favorable to NOP (via MIL to ORL; via DET to LAC to ORL)",12.941176470588236,0,1.0,12.941176470588236
-Orlando Magic,2027,1,18,Own,27.5,1,0.9090909090909091,25.0
-Orlando Magic,2027,2,45,More favorable of ORL and BOS to UTH then other to CHA (via BOS to ORL to BOS; via ORL to CHA),12.941176470588236,1,0.9090909090909091,11.76470588235294
-Orlando Magic,2028,1,18,To POR (via MEM),27.5,2,0.8264462809917354,22.727272727272727
-Orlando Magic,2028,2,45,To CHA; More favorable of LAL and WAS (via LAL),12.941176470588236,2,0.8264462809917354,10.6951871657754
-Orlando Magic,2029,1,18,1-2 Own; 3-30 Own or MEM (via MEM swap for ORL),27.5,3,0.7513148009015775,20.661157024793383
-Orlando Magic,2029,2,45,To MEM if ORL 1-2 in 2029,12.941176470588236,3,0.7513148009015775,9.72289742343218
-Orlando Magic,2030,1,18,To MEM,27.5,4,0.6830134553650705,18.782870022539438
-Orlando Magic,2030,2,45,Own or swap for NOP; MIL,12.941176470588236,4,0.6830134553650705,8.838997657665619
-Orlando Magic,2031,1,18,Own,27.5,5,0.6209213230591549,17.07533638412676
-Orlando Magic,2031,2,45,More favorable of ORL and NOP then other to OKC (via ORL swap for NOP),12.941176470588236,5,0.6209213230591549,8.035452416059652
-Orlando Magic,2032,1,18,Own,27.5,6,0.5644739300537772,15.523033076478873
-Orlando Magic,2032,2,45,Own,12.941176470588236,6,0.5644739300537772,7.304956741872411
-Philadelphia 76ers,2026,1,18,"1-4 Own; 5-30 to OKC; Second most / more favorable of OKC, HOU 5-30 and LAC (via OKC)",27.5,0,1.0,27.5
-Philadelphia 76ers,2026,2,45,"Most favorable of PHL, OKC and DAL to OKC; second most favorable to PHX and least favorable to WAS",12.941176470588236,0,1.0,12.941176470588236
-Philadelphia 76ers,2027,1,18,1-4 Own; 5-30 to OKC if not already settled,27.5,1,0.9090909090909091,25.0
-Philadelphia 76ers,2027,2,45,"To OKC if PHL has not conveyed 1st round pick to OKC by 2027; More favorable of GOS and PHX (via WAS); Most favorable of OKC, HOU, IND and MIA",12.941176470588236,1,0.9090909090909091,11.76470588235294
-Philadelphia 76ers,2028,1,18,"1-8 Own; complex swap conditions for 9-30 involving BRK, PHX, NYK, WAS; LAC",27.5,2,0.8264462809917354,22.727272727272727
-Philadelphia 76ers,2028,2,45,To BRK if PHL 1-8 in 2028; DET 56-60; GOS (via POR to WAS); MIL (via BRK to HOU to OKC); OKC,12.941176470588236,2,0.8264462809917354,10.6951871657754
-Philadelphia 76ers,2029,1,18,Own or swap for LAC 4-30,27.5,3,0.7513148009015775,20.661157024793383
-Philadelphia 76ers,2029,2,45,Own,12.941176470588236,3,0.7513148009015775,9.72289742343218
-Philadelphia 76ers,2030,1,18,Own,27.5,4,0.6830134553650705,18.782870022539438
-Philadelphia 76ers,2030,2,45,To DAL; More favorable of PHX and POR (via WAS); WAS,12.941176470588236,4,0.6830134553650705,8.838997657665619
-Philadelphia 76ers,2031,1,18,Own,27.5,5,0.6209213230591549,17.07533638412676
-Philadelphia 76ers,2031,2,45,Own,12.941176470588236,5,0.6209213230591549,8.035452416059652
-Philadelphia 76ers,2032,1,18,Own,27.5,6,0.5644739300537772,15.523033076478873
-Philadelphia 76ers,2032,2,45,Own or MEM (via MEM swap for PHL),12.941176470588236,6,0.5644739300537772,7.304956741872411
-Phoenix Suns,2026,1,18,"More favorable of PHX and WAS 1-8 to WAS; two most favorable of less favorable of PHX and WAS 1-8, MEM and ORL to MEM then least favorable of all to CHA",27.5,0,1.0,27.5
-Phoenix Suns,2026,2,45,"To DAL (via WAS); Second most favorable of OKC, DAL and PHL (via OKC to HOU)",12.941176470588236,0,1.0,12.941176470588236
-Phoenix Suns,2027,1,18,"To HOU (via BRK); Least favorable of UTH, CLE and MIN (via UTH)",27.5,1,0.9090909090909091,25.0
-Phoenix Suns,2027,2,45,More favorable of PHX and GOS to PHL then other to WAS (via WAS),12.941176470588236,1,0.9090909090909091,11.76470588235294
-Phoenix Suns,2028,1,18,"Least favorable of PHX, PHL 9-30 if PHL conveys 1st round pick to OKC in 2026, WAS and BRK (complex swap conditions — see original)",27.5,2,0.8264462809917354,22.727272727272727
-Phoenix Suns,2028,2,45,More favorable of PHX and IND to IND then other to NYK (via IND),12.941176470588236,2,0.8264462809917354,10.6951871657754
-Phoenix Suns,2029,1,18,"Two most favorable of PHX, DAL and HOU to HOU then other to BRK (via DAL and PHX to BRK; via HOU swap for DAL or PHX)",27.5,3,0.7513148009015775,20.661157024793383
-Phoenix Suns,2029,2,45,Own (via OKC to CHA),12.941176470588236,3,0.7513148009015775,9.72289742343218
-Phoenix Suns,2030,1,18,"Least favorable of PHX, WAS and MEM; more favorable of PHX and WAS to WAS; more favorable of MEM and less favorable of PHX and WAS to MEM (via WAS swap for PHX; via MEM swap for PHX or WAS)",27.5,4,0.6830134553650705,18.782870022539438
-Phoenix Suns,2030,2,45,More favorable of PHX and POR to PHL then other to WAS (via WAS),12.941176470588236,4,0.6830134553650705,8.838997657665619
-Phoenix Suns,2031,1,18,To MEM (via UTH),27.5,5,0.6209213230591549,17.07533638412676
-Phoenix Suns,2031,2,45,To CHA,12.941176470588236,5,0.6209213230591549,8.035452416059652
-Phoenix Suns,2032,1,18,Frozen (through 2027-28),27.5,6,0.5644739300537772,15.523033076478873
-Phoenix Suns,2032,2,45,Less favorable of PHX and HOU then other to CHI (via PHX to MIN),12.941176470588236,6,0.5644739300537772,7.304956741872411
-Portland Trail Blazers,2026,1,18,1-14 Own; 15-30 to CHI,27.5,0,1.0,27.5
-Portland Trail Blazers,2026,2,45,"Most favorable of POR, NOP, MIN and NYK to CHI; less favorable of POR and NOP to SAN; less favorable of more favorable of POR and NOP and more favorable of MIN and NYK to WAS; MEM 43-60 (via UTH to GOS)",12.941176470588236,0,1.0,12.941176470588236
-Portland Trail Blazers,2027,1,18,1-14 Own; 15-30 to CHI if not already settled,27.5,1,0.9090909090909091,25.0
-Portland Trail Blazers,2027,2,45,Less favorable of POR and NOP then other to CHA; less favorable of POR and NOP to HOU if 56-60; MIN (via HOU to OKC to NYK),12.941176470588236,1,0.9090909090909091,11.76470588235294
-Portland Trail Blazers,2028,1,18,1-14 Own or swap for MIL; 15-30 to CHI if not already settled; ORL (via MEM),27.5,2,0.8264462809917354,22.727272727272727
-Portland Trail Blazers,2028,2,45,To CHI if POR has not conveyed 1st round pick to CHI by 2028; SAC (via CHI to SAC to MEM),12.941176470588236,2,0.8264462809917354,10.6951871657754
-Portland Trail Blazers,2029,1,18,"Most and least favorable of POR, BOS and MIL; second most favorable to WAS (via BOS to POR; via MIL to POR; via POR to WAS)",27.5,3,0.7513148009015775,20.661157024793383
-Portland Trail Blazers,2029,2,45,To MEM (via PHL to IND); Less favorable of IND and WAS (via IND to NYK),12.941176470588236,3,0.7513148009015775,9.72289742343218
-Portland Trail Blazers,2030,1,18,Own or swap for MIL,27.5,4,0.6830134553650705,18.782870022539438
-Portland Trail Blazers,2030,2,45,More favorable of POR and PHX to PHL then other to WAS (via WAS),12.941176470588236,4,0.6830134553650705,8.838997657665619
-Portland Trail Blazers,2031,1,18,Own,27.5,5,0.6209213230591549,17.07533638412676
-Portland Trail Blazers,2031,2,45,Own,12.941176470588236,5,0.6209213230591549,8.035452416059652
-Portland Trail Blazers,2032,1,18,Own,27.5,6,0.5644739300537772,15.523033076478873
-Portland Trail Blazers,2032,2,45,Own,12.941176470588236,6,0.5644739300537772,7.304956741872411
-Sacramento Kings,2026,1,18,Own,27.5,0,1.0,27.5
-Sacramento Kings,2026,2,45,Own; CHA 31-55 (via NYK to ATL to SAN),12.941176470588236,0,1.0,12.941176470588236
-Sacramento Kings,2027,1,18,Own; SAN 1-16,27.5,1,0.9090909090909091,25.0
-Sacramento Kings,2027,2,45,To OKC if SAN 1-16 in 2027; CHA if SAN 17-30 in 2027 (via NYK to ATL to SAN),12.941176470588236,1,0.9090909090909091,11.76470588235294
-Sacramento Kings,2028,1,18,Own,27.5,2,0.8264462809917354,22.727272727272727
-Sacramento Kings,2028,2,45,To POR (via CHI to SAC to MEM),12.941176470588236,2,0.8264462809917354,10.6951871657754
-Sacramento Kings,2029,1,18,Own,27.5,3,0.7513148009015775,20.661157024793383
-Sacramento Kings,2029,2,45,To HOU (via WAS),12.941176470588236,3,0.7513148009015775,9.72289742343218
-Sacramento Kings,2030,1,18,Own,27.5,4,0.6830134553650705,18.782870022539438
-Sacramento Kings,2030,2,45,To SAN (via IND),12.941176470588236,4,0.6830134553650705,8.838997657665619
-Sacramento Kings,2031,1,18,Own or SAN (via SAN swap for SAC); MIN (via SAN),27.5,5,0.6209213230591549,17.07533638412676
-Sacramento Kings,2031,2,45,To SAN,12.941176470588236,5,0.6209213230591549,8.035452416059652
-Sacramento Kings,2032,1,18,Own,27.5,6,0.5644739300537772,15.523033076478873
-Sacramento Kings,2032,2,45,Own,12.941176470588236,6,0.5644739300537772,7.304956741872411
-San Antonio Spurs,2026,1,18,Own or swap for ATL [ATL may convey to CLE],27.5,0,1.0,27.5
-San Antonio Spurs,2026,2,45,More favorable of SAN and less favorable of IND and MIA then least favorable of all to MIN; Less favorable of NOP and POR (via NOP to POR to NOP to SAN); UTH 31-55 (via MIN),12.941176470588236,0,1.0,12.941176470588236
-San Antonio Spurs,2027,1,18,1-16 to SAC; 17-30 to OKC (via SAC); ATL,27.5,1,0.9090909090909091,25.0
-San Antonio Spurs,2027,2,45,"More favorable of SAN and least favorable of OKC, HOU, IND and MIA then least favorable of all to MIA",12.941176470588236,1,0.9090909090909091,11.76470588235294
-San Antonio Spurs,2028,1,18,Own or swap for BOS 2-30,27.5,2,0.8264462809917354,22.727272727272727
-San Antonio Spurs,2028,2,45,Own; BOS 31-45 if BOS 1 in 2028; MIN; NOP,12.941176470588236,2,0.8264462809917354,10.6951871657754
-San Antonio Spurs,2029,1,18,Own,27.5,3,0.7513148009015775,20.661157024793383
-San Antonio Spurs,2029,2,45,Own; LAC (via PHL); NOP,12.941176470588236,3,0.7513148009015775,9.72289742343218
-San Antonio Spurs,2030,1,18,"Most / more favorable of SAN, DAL and MIN 2-30; less favorable of SAN and DAL to DAL; less favorable of MIN 2-30 and more favorable of SAN and DAL to MIN (via SAN swap for DAL; via SAN swap of SAN or DAL for MIN)",27.5,4,0.6830134553650705,18.782870022539438
-San Antonio Spurs,2030,2,45,Own; CLE; SAC (via IND),12.941176470588236,4,0.6830134553650705,8.838997657665619
-San Antonio Spurs,2031,1,18,Own or swap for SAC,27.5,5,0.6209213230591549,17.07533638412676
-San Antonio Spurs,2031,2,45,Own; SAC,12.941176470588236,5,0.6209213230591549,8.035452416059652
-San Antonio Spurs,2032,1,18,Own,27.5,6,0.5644739300537772,15.523033076478873
-San Antonio Spurs,2032,2,45,Own,12.941176470588236,6,0.5644739300537772,7.304956741872411
-Toronto Raptors,2026,1,18,Own,27.5,0,1.0,27.5
-Toronto Raptors,2026,2,45,31-55 Own; 56-60 to IND,12.941176470588236,0,1.0,12.941176470588236
-Toronto Raptors,2027,1,18,Own,27.5,1,0.9090909090909091,25.0
-Toronto Raptors,2027,2,45,Own,12.941176470588236,1,0.9090909090909091,11.76470588235294
-Toronto Raptors,2028,1,18,Own,27.5,2,0.8264462809917354,22.727272727272727
-Toronto Raptors,2028,2,45,Own,12.941176470588236,2,0.8264462809917354,10.6951871657754
-Toronto Raptors,2029,1,18,Own,27.5,3,0.7513148009015775,20.661157024793383
-Toronto Raptors,2029,2,45,Own,12.941176470588236,3,0.7513148009015775,9.72289742343218
-Toronto Raptors,2030,1,18,Own,27.5,4,0.6830134553650705,18.782870022539438
-Toronto Raptors,2030,2,45,Own,12.941176470588236,4,0.6830134553650705,8.838997657665619
-Toronto Raptors,2031,1,18,Own,27.5,5,0.6209213230591549,17.07533638412676
-Toronto Raptors,2031,2,45,To NOP,12.941176470588236,5,0.6209213230591549,8.035452416059652
-Toronto Raptors,2032,1,18,Own,27.5,6,0.5644739300537772,15.523033076478873
-Toronto Raptors,2032,2,45,To BRK,12.941176470588236,6,0.5644739300537772,7.304956741872411
-Utah Jazz,2026,1,18,"Most favorable of UTH 1-8, MIN and CLE; less favorable of UTH 1-8 and MIN to MIN; less favorable of CLE and more favorable of UTH 1-8 and MIN to CLE; UTH 9-30 to OKC (via UTH swap for MIN; via UTH swap of UTH or MIN for CLE)",27.5,0,1.0,27.5
-Utah Jazz,2026,2,45,31-55 to SAN; 56-60 to MIL (via MIN to SAN),12.941176470588236,0,1.0,12.941176470588236
-Utah Jazz,2027,1,18,"Second most favorable of UTH, CLE and MIN; most favorable to MEM and least favorable to PHX (via UTH)",27.5,1,0.9090909090909091,25.0
-Utah Jazz,2027,2,45,To IND (via CLE); More favorable of BOS and ORL (via BOS to ORL to BOS); DEN (via CLE to CHI to BOS); LAC (via ATL to LAC),12.941176470588236,1,0.9090909090909091,11.76470588235294
-Utah Jazz,2028,1,18,Own or swap for CLE [CLE may convey UTH to ATL],27.5,2,0.8264462809917354,22.727272727272727
-Utah Jazz,2028,2,45,"To OKC; CLE; Least favorable of DET 31-55, less favorable of CHA and LAC, MIA if DAL conveys 1st round pick to CHA in 2027, and NYK (via DET)",12.941176470588236,2,0.8264462809917354,10.6951871657754
-Utah Jazz,2029,1,18,"Most / two most favorable of UTH, CLE and MIN 6-30 then other to CHA (via UTH to PHX)",27.5,3,0.7513148009015775,20.661157024793383
-Utah Jazz,2029,2,45,Own; MIN if MIN does not convey 1st round pick to UTH in 2029,12.941176470588236,3,0.7513148009015775,9.72289742343218
-Utah Jazz,2030,1,18,Own,27.5,4,0.6830134553650705,18.782870022539438
-Utah Jazz,2030,2,45,Less favorable of UTH and LAC then other to CHA (via LAC to UTH),12.941176470588236,4,0.6830134553650705,8.838997657665619
-Utah Jazz,2031,1,18,Own,27.5,5,0.6209213230591549,17.07533638412676
-Utah Jazz,2031,2,45,Own; More favorable of BOS and CLE (via CLE to ATL to BOS),12.941176470588236,5,0.6209213230591549,8.035452416059652
-Utah Jazz,2032,1,18,Own,27.5,6,0.5644739300537772,15.523033076478873
-Utah Jazz,2032,2,45,To WAS; CLE,12.941176470588236,6,0.5644739300537772,7.304956741872411
-Washington Wizards,2026,1,18,"1-8 Own or swap for PHX; two most favorable of less favorable of WAS 1-8 and PHX, MEM and ORL to MEM then least favorable of all to CHA; WAS 9-30 to NYK (via HOU to OKC)",27.5,0,1.0,27.5
-Washington Wizards,2026,2,45,"To NYK if WAS does not convey 1st round pick to NYK in 2026; Less favorable of more favorable of MIN and NYK and more favorable of NOP and POR; Least favorable of OKC, DAL and PHL (via OKC to MIA to SAN)",12.941176470588236,0,1.0,12.941176470588236
-Washington Wizards,2027,1,18,Own,27.5,1,0.9090909090909091,25.0
-Washington Wizards,2027,2,45,To NYK if WAS does not convey 1st round pick to NYK in 2026; More favorable of BRK and DAL (via DAL to BRK to DET; via DET to WAS); Less favorable of GOS and PHX,12.941176470588236,1,0.9090909090909091,11.76470588235294
-Washington Wizards,2028,1,18,"More favorable of WAS and least / less favorable of BRK, PHL 9-30 and PHX; complex swap with MIL and POR (see original for full conditions)",27.5,2,0.8264462809917354,22.727272727272727
-Washington Wizards,2028,2,45,Less favorable of WAS and LAL then other to ORL (via WAS to LAL to ORL; via LAL to WAS); DEN 34-60 (via SAN to SAC),12.941176470588236,2,0.8264462809917354,10.6951871657754
-Washington Wizards,2029,1,18,"Own; Second most favorable of POR, BOS and MIL (via BOS to POR; via MIL to POR; via POR to WAS)",27.5,3,0.7513148009015775,20.661157024793383
-Washington Wizards,2029,2,45,More favorable of WAS and IND to IND then other to POR (via IND to NYK); LAL,12.941176470588236,3,0.7513148009015775,9.72289742343218
-Washington Wizards,2030,1,18,More favorable of WAS and PHX; more favorable of MEM and less favorable of WAS and PHX to MEM then least favorable of all to PHX,27.5,4,0.6830134553650705,18.782870022539438
-Washington Wizards,2030,2,45,To PHL; Less favorable of PHX and POR,12.941176470588236,4,0.6830134553650705,8.838997657665619
-Washington Wizards,2031,1,18,Own,27.5,5,0.6209213230591549,17.07533638412676
-Washington Wizards,2031,2,45,Own; More favorable of MIA and IND (via MIA swap for IND; via UTH),12.941176470588236,5,0.6209213230591549,8.035452416059652
-Washington Wizards,2032,1,18,Own,27.5,6,0.5644739300537772,15.523033076478873
-Washington Wizards,2032,2,45,Own; UTH,12.941176470588236,6,0.5644739300537772,7.304956741872411
+team,pick_year,round,expected_pick_number,protection_note,strength_rank,ev_points,years_out,discount_factor,pv_ev_points
+Atlanta Hawks,2026,1,23,"More favorable of (i) less favorable of ATL and SAN and (ii) less favorable of (a) CLE and (b) more favorable of UTH 1-8 and MIN then less favorable of (i) and (ii) to CLE; more favorable of ATL and SAN to SAN (via UTH swap for MIN; via UTH swap of UTH or MIN for CLE; via SAN swap for ATL; via ATL swap of ATL or SAN for CLE, UTH or MIN); More favorable of NOP and MIL (via NOP swap for MIL)",23,22.75862068965517,0,1.0,22.75862068965517
+Atlanta Hawks,2026,2,53,"More favorable of (i) ATL and (ii) less favorable of (a) LAC and (b) most favorable of BOS, IND and MIA to BRK then less favorable of (i) and (ii) to DEN (via ATL to GOS to BRK; via MIA to IND to MIL to MEM; via LAC to HOU to BRK; via BRK to DEN); Less favorable of (i) BOS and (ii) more favorable of IND and MIA (via MIA to IND to MIL; via MEM swap of IND or MIA for BOS; via BOS to ATL)",23,11.1864406779661,0,1.0,11.1864406779661
+Atlanta Hawks,2027,1,23,To SAN; Less favorable of MIL and NOP if either or both 5-30 (via NOP),23,22.75862068965517,1,0.9090909090909091,20.68965517241379
+Atlanta Hawks,2027,2,53,Own (via BOS to MEM to POR),23,11.1864406779661,1,0.9090909090909091,10.169491525423727
+Atlanta Hawks,2028,1,23,More favorable of (i) ATL and (ii) less favorable of UTH and CLE then least favorable of all to CLE (via UTH swap for CLE; via ATL swap for UTH or CLE),23,22.75862068965517,2,0.8264462809917354,18.80877742946708
+Atlanta Hawks,2028,2,53,To BRK (via GOS),23,11.1864406779661,2,0.8264462809917354,9.24499229583975
+Atlanta Hawks,2029,1,23,Own,23,22.75862068965517,3,0.7513148009015775,17.0988885722428
+Atlanta Hawks,2029,2,53,More favorable of ATL and MIA to CHA then other to OKC (via OKC); CLE,23,11.1864406779661,3,0.7513148009015775,8.40453845076341
+Atlanta Hawks,2030,1,23,Own,23,22.75862068965517,4,0.6830134553650705,15.544444156584362
+Atlanta Hawks,2030,2,53,Own; NYK (via POR),23,11.1864406779661,4,0.6830134553650705,7.640489500694009
+Atlanta Hawks,2031,1,23,Own,23,22.75862068965517,5,0.6209213230591549,14.131312869622146
+Atlanta Hawks,2031,2,53,Own or swap for HOU 31-55,23,11.1864406779661,5,0.6209213230591549,6.945899546085461
+Atlanta Hawks,2032,1,23,Own,23,22.75862068965517,6,0.5644739300537772,12.84664806329286
+Atlanta Hawks,2032,2,53,Own; LAL,23,11.1864406779661,6,0.5644739300537772,6.314454132804965
+Boston Celtics,2026,1,25,Own,25,21.29032258064516,0,1.0,21.29032258064516
+Boston Celtics,2026,2,55,"Less favorable of (i) BOS and (ii) more favorable of IND and MIA to ATL then most favorable of all to MEM or to BRK (via MIA to IND to MIL; via MEM swap of IND or MIA for BOS; via BOS to ATL; via LAC to HOU to BRK); Most favorable of DET, MIL and ORL (via MIL to ORL; via DET to LAC to ORL)",25,10.819672131147541,0,1.0,10.819672131147541
+Boston Celtics,2027,1,25,Own,25,21.29032258064516,1,0.9090909090909091,19.354838709677416
+Boston Celtics,2027,2,55,More favorable of BOS and ORL to UTH then other to CHA (via BOS to ORL to BOS; via ORL to CHA),25,10.819672131147541,1,0.9090909090909091,9.836065573770492
+Boston Celtics,2028,1,25,1-30 Own; 2-30 Own or SAN (via SAN swap for BOS),25,21.29032258064516,2,0.8264462809917354,17.59530791788856
+Boston Celtics,2028,2,55,31-45 to SAN if BOS 1 in 2028; 46-60 to NYK (via ORL to PHX),25,10.819672131147541,2,0.8264462809917354,8.94187779433681
+Boston Celtics,2029,1,25,"Most and least favorable of BOS, POR and MIL to POR; second most favorable to WAS (via BOS to POR; via MIL to POR; via POR to WAS)",25,21.29032258064516,3,0.7513148009015775,15.995734470807779
+Boston Celtics,2029,2,55,To OKC,25,10.819672131147541,3,0.7513148009015775,8.128979813033462
+Boston Celtics,2030,1,25,Own,25,21.29032258064516,4,0.6830134553650705,14.541576791643436
+Boston Celtics,2030,2,55,To BRK (via HOU); CHA 56-60,25,10.819672131147541,4,0.6830134553650705,7.389981648212239
+Boston Celtics,2031,1,25,Own,25,21.29032258064516,5,0.6209213230591549,13.219615265130395
+Boston Celtics,2031,2,55,Less favorable of BOS and CLE then other to UTH (via CLE to ATL to BOS); HOU 56-60,25,10.819672131147541,5,0.6209213230591549,6.718165134738398
+Boston Celtics,2032,1,25,Frozen (through 2027-28),25,21.29032258064516,6,0.5644739300537772,12.01783205920945
+Boston Celtics,2032,2,55,Own,25,10.819672131147541,6,0.5644739300537772,6.10742284976218
+Brooklyn Nets,2026,1,4,Own (via HOU),4,66.0,0,1.0,66.0
+Brooklyn Nets,2026,2,34,"31-55 Own; 56-60 to MIA; More favorable of (i) ATL and (ii) less favorable of (a) LAC and (b) most favorable of BOS, IND and MIA then less favorable of (i) and (ii) to DEN (via ATL to GOS to BRK; via LAC to HOU to BRK; via BRK to DEN)",4,16.5,0,1.0,16.5
+Brooklyn Nets,2027,1,4,Own or HOU (via HOU swap for BRK); NYK,4,66.0,1,0.9090909090909091,60.0
+Brooklyn Nets,2027,2,34,More favorable of BRK and DAL to WAS then other to DET (via DAL to BRK to DET; via DET to WAS); LAL if LAL conveys 1st round pick to UTH in 2027,4,16.5,1,0.9090909090909091,15.0
+Brooklyn Nets,2028,1,4,"Complex swap involving BRK, PHL, PHX, NYK, WAS (see original for details)",4,66.0,2,0.8264462809917354,54.54545454545454
+Brooklyn Nets,2028,2,34,Own; ATL (via GOS); MEM (via PHX); PHL if PHL 1-8 in 2028,4,16.5,2,0.8264462809917354,13.636363636363635
+Brooklyn Nets,2029,1,4,"Own; Least favorable of DAL, PHX and HOU (via DAL and PHX to BRK; via HOU swap for DAL or PHX); NYK",4,66.0,3,0.7513148009015775,49.58677685950412
+Brooklyn Nets,2029,2,34,Own; DAL; GOS; MEM (via PHX),4,16.5,3,0.7513148009015775,12.39669421487603
+Brooklyn Nets,2030,1,4,Own,4,66.0,4,0.6830134553650705,45.078888054094655
+Brooklyn Nets,2030,2,34,Own; BOS (via HOU); DAL (via BOS to MEM); LAL,4,16.5,4,0.6830134553650705,11.269722013523664
+Brooklyn Nets,2031,1,4,Own; NYK,4,66.0,5,0.6209213230591549,40.98080732190422
+Brooklyn Nets,2031,2,34,Own; LAL,4,16.5,5,0.6209213230591549,10.245201830476056
+Brooklyn Nets,2032,1,4,Own; DEN,4,66.0,6,0.5644739300537772,37.25527938354929
+Brooklyn Nets,2032,2,34,Own; DEN; MIA; TOR,4,16.5,6,0.5644739300537772,9.313819845887323
+Charlotte Hornets,2026,1,11,"Own; Least favorable of PHX, WAS 1-8, ORL and MEM (via WAS swap for PHX; via MEM swap for PHX, WAS or ORL; via PHX to CHA)",11,38.82352941176471,0,1.0,38.82352941176471
+Charlotte Hornets,2026,2,41,31-55 to SAC; 56-60 to DET (via NYK to ATL to SAN to SAC); More favorable of DEN and GOS (via DEN to PHX; via GOS to ATL to OKC to NYK),11,14.042553191489363,0,1.0,14.042553191489363
+Charlotte Hornets,2027,1,11,Own; DAL 3-30; MIA 15-30,11,38.82352941176471,1,0.9090909090909091,35.294117647058826
+Charlotte Hornets,2027,2,41,To OKC if SAN 1-16 in 2027 or to SAC if SAN 17-30 in 2027; Less favorable of BOS and ORL; More favorable of POR and NOP (via POR),11,14.042553191489363,1,0.9090909090909091,12.76595744680851
+Charlotte Hornets,2028,1,11,Own; MIA if not already settled,11,38.82352941176471,2,0.8264462809917354,32.0855614973262
+Charlotte Hornets,2028,2,41,More favorable of CHA and LAC then other to DET; MIA if DAL does not convey 1st round pick to CHA in 2027; ORL,11,14.042553191489363,2,0.8264462809917354,11.60541586073501
+Charlotte Hornets,2029,1,11,"Own; Least / less favorable of UTH, CLE and MIN 6-30 (via UTH to PHX)",11,38.82352941176471,3,0.7513148009015775,29.168692270296543
+Charlotte Hornets,2029,2,41,Own; DEN if DEN has conveyed a first potential 1st round pick to OKC by 2029; More favorable of ATL and MIA (via OKC),11,14.042553191489363,3,0.7513148009015775,10.550378055213644
+Charlotte Hornets,2030,1,11,Own,11,38.82352941176471,4,0.6830134553650705,26.51699297299686
+Charlotte Hornets,2030,2,41,31-55 Own; 56-60 to BOS; More favorable of UTH and LAC (via UTH),11,14.042553191489363,4,0.6830134553650705,9.591252777466948
+Charlotte Hornets,2031,1,11,Own,11,38.82352941176471,5,0.6209213230591549,24.10635724817896
+Charlotte Hornets,2031,2,41,Own; MIL; PHX,11,14.042553191489363,5,0.6209213230591549,8.719320706788134
+Charlotte Hornets,2032,1,11,Own,11,38.82352941176471,6,0.5644739300537772,21.914870225617236
+Charlotte Hornets,2032,2,41,Own; MIL,11,14.042553191489363,6,0.5644739300537772,7.926655187989213
+Chicago Bulls,2026,1,9,Own; POR 15-30,9,44.0,0,1.0,44.0
+Chicago Bulls,2026,2,39,"To HOU (via WAS); Less favorable of DEN and GOS (via DEN to PHX to CHA; via GOS to ATL to OKC to NYK to CHA; via CHA to PHX to MIN to CHI); Most favorable of MIN, NYK, NOP and POR (via MIN to NYK; via NOP to POR to NOP; via POR to DET to BOS to CHI)",9,14.666666666666666,0,1.0,14.666666666666666
+Chicago Bulls,2027,1,9,Own; POR 15-30 if not already settled,9,44.0,1,0.9090909090909091,40.0
+Chicago Bulls,2027,2,39,To DAL (via WAS to NOP to WAS); CLE (via ATL to MIN),9,14.666666666666666,1,0.9090909090909091,13.333333333333332
+Chicago Bulls,2028,1,9,Own; POR 15-30 if not already settled,9,44.0,2,0.8264462809917354,36.36363636363636
+Chicago Bulls,2028,2,39,Own; POR if POR has not conveyed 1st round pick to CHI by 2028,9,14.666666666666666,2,0.8264462809917354,12.12121212121212
+Chicago Bulls,2029,1,9,Own,9,44.0,3,0.7513148009015775,33.05785123966941
+Chicago Bulls,2029,2,39,"Own; Least favorable of DET, MIL and NYK (via MIL to BRK to DET; via NYK to DET; via SAC to CHI)",9,14.666666666666666,3,0.7513148009015775,11.01928374655647
+Chicago Bulls,2030,1,9,Own,9,44.0,4,0.6830134553650705,30.052592036063103
+Chicago Bulls,2030,2,39,Own,9,14.666666666666666,4,0.6830134553650705,10.0175306786877
+Chicago Bulls,2031,1,9,Own,9,44.0,5,0.6209213230591549,27.320538214602816
+Chicago Bulls,2031,2,39,Own; DEN (via PHX to CHA); More favorable of MIN and GOS (via MIN swap for GOS); NYK (via CHA),9,14.666666666666666,5,0.6209213230591549,9.106846071534273
+Chicago Bulls,2032,1,9,Own,9,44.0,6,0.5644739300537772,24.836852922366198
+Chicago Bulls,2032,2,39,Own; More favorable of PHX and HOU (via PHX to MIN),9,14.666666666666666,6,0.5644739300537772,8.278950974122065
+Cleveland Cavaliers,2026,1,28,"Less favorable of (i) less favorable of CLE and more favorable of UTH 1-8 and MIN and (ii) less favorable of ATL and SAN then more favorable of (i) and (ii) to ATL; most favorable of CLE, MIN and UTH 1-8 to UTH (via UTH swap for MIN; via UTH swap of UTH or MIN for CLE; via SAN swap for ATL)",28,19.41176470588235,0,1.0,19.41176470588235
+Cleveland Cavaliers,2026,2,58,To LAC,28,10.3125,0,1.0,10.3125
+Cleveland Cavaliers,2027,1,28,"Most favorable of CLE, MIN and UTH to MEM; second most favorable to UTH and least favorable to PHX (via UTH)",28,19.41176470588235,1,0.9090909090909091,17.64705882352941
+Cleveland Cavaliers,2027,2,58,To CHI (via ATL to MIN),28,10.3125,1,0.9090909090909091,9.375
+Cleveland Cavaliers,2028,1,28,"Least favorable of CLE, UTH and ATL; more favorable of CLE and UTH to UTH; more favorable of ATL and less favorable of CLE and UTH to ATL (via UTH swap for CLE; via ATL swap for CLE or UTH)",28,19.41176470588235,2,0.8264462809917354,16.042780748663098
+Cleveland Cavaliers,2028,2,58,To UTH,28,10.3125,2,0.8264462809917354,8.522727272727272
+Cleveland Cavaliers,2029,1,28,"Most / two most favorable of CLE, MIN 6-30 and UTH to UTH then other to CHA (via UTH to PHX)",28,19.41176470588235,3,0.7513148009015775,14.58434613514827
+Cleveland Cavaliers,2029,2,58,To ATL,28,10.3125,3,0.7513148009015775,7.7479338842975185
+Cleveland Cavaliers,2030,1,28,Own,28,19.41176470588235,4,0.6830134553650705,13.258496486498426
+Cleveland Cavaliers,2030,2,58,To SAN,28,10.3125,4,0.6830134553650705,7.04357625845229
+Cleveland Cavaliers,2031,1,28,Own,28,19.41176470588235,5,0.6209213230591549,12.053178624089478
+Cleveland Cavaliers,2031,2,58,More favorable of CLE and BOS to UTH then other to BOS (via CLE to ATL to BOS),28,10.3125,5,0.6209213230591549,6.403251144047535
+Cleveland Cavaliers,2032,1,28,Own,28,19.41176470588235,6,0.5644739300537772,10.957435112808616
+Cleveland Cavaliers,2032,2,58,To UTH,28,10.3125,6,0.5644739300537772,5.821137403679578
+Dallas Mavericks,2026,1,6,"Own; Least / less favorable of OKC, HOU 5-30 and LAC (via OKC to PHL to WAS)",6,55.0,0,1.0,55.0
+Dallas Mavericks,2026,2,36,"Most favorable of DAL, OKC and PHL to OKC; second most favorable to PHX and least favorable to WAS (via OKC to HOU to PHX; via OKC to MIA to SAN to WAS); PHX (via WAS)",6,15.714285714285714,0,1.0,15.714285714285714
+Dallas Mavericks,2027,1,6,1-2 Own; 3-30 to CHA,6,55.0,1,0.9090909090909091,50.0
+Dallas Mavericks,2027,2,36,More favorable of DAL and BRK to WAS then other to DET (via DET to WAS; via DAL to BRK to DET); CHI (via WAS to NOP to WAS),6,15.714285714285714,1,0.9090909090909091,14.285714285714285
+Dallas Mavericks,2028,1,6,Own or OKC (via OKC swap for DAL),6,55.0,2,0.8264462809917354,45.45454545454545
+Dallas Mavericks,2028,2,36,To LAC (via SAC to IND),6,15.714285714285714,2,0.8264462809917354,12.987012987012985
+Dallas Mavericks,2029,1,6,"Two most favorable of DAL, HOU and PHX to HOU then other to BRK (via DAL and PHX to BRK; via DAL or PHX to HOU); LAL",6,55.0,3,0.7513148009015775,41.322314049586765
+Dallas Mavericks,2029,2,36,To BRK; HOU (via OKC to WAS),6,15.714285714285714,3,0.7513148009015775,11.806375442739075
+Dallas Mavericks,2030,1,6,Own or SAN (via SAN swap for DAL); less favorable of MIN 2-30 and more favorable of DAL and SAN to MIN then most / more favorable of all to SAN; GOS 21-30 (via WAS),6,55.0,4,0.6830134553650705,37.565740045078876
+Dallas Mavericks,2030,2,36,To BRK (via BOS to MEM); GOS if GOS does not convey 1st round pick to DAL in 2030; PHL,6,15.714285714285714,4,0.6830134553650705,10.733068584308251
+Dallas Mavericks,2031,1,6,Own,6,55.0,5,0.6209213230591549,34.15067276825352
+Dallas Mavericks,2031,2,36,To DET (via PHL),6,15.714285714285714,5,0.6209213230591549,9.757335076643862
+Dallas Mavericks,2032,1,6,Own,6,55.0,6,0.5644739300537772,31.046066152957746
+Dallas Mavericks,2032,2,36,Own,6,15.714285714285714,6,0.5644739300537772,8.870304615130784
+Denver Nuggets,2026,1,21,Own,21,24.444444444444443,0,1.0,24.444444444444443
+Denver Nuggets,2026,2,51,"More favorable of DEN and GOS to CHA then other to CHI (via DEN to PHX to CHA; via GOS to ATL to OKC to NYK to CHA; via CHA to PHX to MIN to CHI); Less favorable of ATL and less favorable of LAC and most favorable of BOS, IND and MIA (via ATL to GOS to BRK; via LAC to HOU to BRK; via BRK to DEN)",21,11.578947368421053,0,1.0,11.578947368421053
+Denver Nuggets,2027,1,21,"1-5 Own; two most / more favorable of DEN 6-30, OKC and LAC to OKC then other to LAC (via OKC swap of OKC or DEN for LAC)",21,24.444444444444443,1,0.9090909090909091,22.22222222222222
+Denver Nuggets,2027,2,51,To UTH (via CLE to CHI to BOS),21,11.578947368421053,1,0.9090909090909091,10.526315789473685
+Denver Nuggets,2028,1,21,1-5 Own; 6-30 to OKC if not already settled,21,24.444444444444443,2,0.8264462809917354,20.202020202020197
+Denver Nuggets,2028,2,51,31-33 Own; 34-60 to WAS (via SAN to SAC),21,11.578947368421053,2,0.8264462809917354,9.569377990430622
+Denver Nuggets,2029,1,21,1-5 Own; 6-30 to OKC if not already settled,21,24.444444444444443,3,0.7513148009015775,18.36547291092745
+Denver Nuggets,2029,2,51,To CHA if DEN has conveyed a first potential 1st round pick to OKC by 2029 or to OKC if DEN has not,21,11.578947368421053,3,0.7513148009015775,8.699434536755108
+Denver Nuggets,2030,1,21,1-5 Own; 6-30 to OKC if not already settled and if DEN has conveyed a first potential 1st round pick to OKC by 2028,21,24.444444444444443,4,0.6830134553650705,16.6958844644795
+Denver Nuggets,2030,2,51,To OKC (direct or via CHA),21,11.578947368421053,4,0.6830134553650705,7.908576851595554
+Denver Nuggets,2031,1,21,Own,21,24.444444444444443,5,0.6209213230591549,15.178076785890452
+Denver Nuggets,2031,2,51,To CHI (via PHX to CHA),21,11.578947368421053,5,0.6209213230591549,7.1896153196323205
+Denver Nuggets,2032,1,21,To BRK,21,24.444444444444443,6,0.5644739300537772,13.798251623536775
+Denver Nuggets,2032,2,51,To BRK,21,11.578947368421053,6,0.5644739300537772,6.536013926938473
+Detroit Pistons,2026,1,16,Own or swap for MIN 20-30,16,30.0,0,1.0,30.0
+Detroit Pistons,2026,2,46,"Most favorable of DET, ORL and MIL to BOS; second most favorable to ORL and least favorable to NOP (via MIL to ORL; via DET to LAC to ORL); CHA 56-60 (via NYK to ATL to SAN to SAC)",16,12.69230769230769,0,1.0,12.69230769230769
+Detroit Pistons,2027,1,16,Own,16,30.0,1,0.9090909090909091,27.272727272727273
+Detroit Pistons,2027,2,46,Own; Less favorable of BRK and DAL (via DAL to BRK to DET); MIL (via PHL),16,12.69230769230769,1,0.9090909090909091,11.538461538461537
+Detroit Pistons,2028,1,16,Own,16,30.0,2,0.8264462809917354,24.793388429752063
+Detroit Pistons,2028,2,46,31-55 Own*; 56-60 to PHL; Less favorable of CHA and LAC*; MIA* if DAL conveys 1st round pick to CHA in 2027; NYK* (*Least favorable of these to UTH),16,12.69230769230769,2,0.8264462809917354,10.489510489510486
+Detroit Pistons,2029,1,16,Own,16,30.0,3,0.7513148009015775,22.539444027047328
+Detroit Pistons,2029,2,46,"Two most favorable of DET, MIL and NYK then other to CHI (via MIL to BRK to DET; via NYK to DET; via SAC to CHI)",16,12.69230769230769,3,0.7513148009015775,9.535918626827714
+Detroit Pistons,2030,1,16,Own,16,30.0,4,0.6830134553650705,20.490403660952115
+Detroit Pistons,2030,2,46,Own; MIN,16,12.69230769230769,4,0.6830134553650705,8.669016933479739
+Detroit Pistons,2031,1,16,Own,16,30.0,5,0.6209213230591549,18.627639691774647
+Detroit Pistons,2031,2,46,Own; DAL (via PHL); Less favorable of GOS and MIN (via MIN swap for GOS),16,12.69230769230769,5,0.6209213230591549,7.8809244849815805
+Detroit Pistons,2032,1,16,Own,16,30.0,6,0.5644739300537772,16.934217901613316
+Detroit Pistons,2032,2,46,Own,16,12.69230769230769,6,0.5644739300537772,7.164476804528709
+Golden State Warriors,2026,1,22,Own,22,23.571428571428573,0,1.0,23.571428571428573
+Golden State Warriors,2026,2,52,More favorable of GOS and DEN to CHA then other to CHI; LAL (via CLE to MIA to TOR),22,11.379310344827587,0,1.0,11.379310344827587
+Golden State Warriors,2027,1,22,Own,22,23.571428571428573,1,0.9090909090909091,21.42857142857143
+Golden State Warriors,2027,2,52,More favorable of GOS and PHX to PHL then other to WAS (via WAS),22,11.379310344827587,1,0.9090909090909091,10.344827586206897
+Golden State Warriors,2028,1,22,Own,22,23.571428571428573,2,0.8264462809917354,19.48051948051948
+Golden State Warriors,2028,2,52,To PHL (via POR to WAS),22,11.379310344827587,2,0.8264462809917354,9.404388714733543
+Golden State Warriors,2029,1,22,Own,22,23.571428571428573,3,0.7513148009015775,17.709563164108616
+Golden State Warriors,2029,2,52,To BRK,22,11.379310344827587,3,0.7513148009015775,8.5494442861214
+Golden State Warriors,2030,1,22,1-20 Own; 21-30 to DAL (via WAS),22,23.571428571428573,4,0.6830134553650705,16.099602876462377
+Golden State Warriors,2030,2,52,To DAL if GOS does not convey 1st round pick to DAL in 2030 (via WAS),22,11.379310344827587,4,0.6830134553650705,7.772222078292183
+Golden State Warriors,2031,1,22,Own,22,23.571428571428573,5,0.6209213230591549,14.636002614965795
+Golden State Warriors,2031,2,52,More favorable of GOS and MIN to CHI then other to DET (via MIN swap for GOS),22,11.379310344827587,5,0.6209213230591549,7.065656434811074
+Golden State Warriors,2032,1,22,Own,22,23.571428571428573,6,0.5644739300537772,13.305456922696179
+Golden State Warriors,2032,2,52,31-50 Own; 51-60 to MEM,22,11.379310344827587,6,0.5644739300537772,6.423324031646431
+Houston Rockets,2026,1,26,"1-4 Own; most favorable of HOU 5-30, LAC and OKC to OKC; second most / more favorable to PHL and least / less favorable to DAL (via OKC to PHL to WAS to DAL)",26,20.625,0,1.0,20.625
+Houston Rockets,2026,2,56,To OKC if HOU 1-4 in 2026; CHI (via WAS),26,10.64516129032258,0,1.0,10.64516129032258
+Houston Rockets,2027,1,26,Own or swap for BRK; PHX (via BRK),26,20.625,1,0.9090909090909091,18.75
+Houston Rockets,2027,2,56,"Most favorable of HOU, OKC, IND and MIA to PHL; second most favorable to NOP and third most favorable to NYK; more favorable of SAN and least favorable of HOU, OKC, IND and MIA to SAN then least favorable of all to MIA; MEM (via LAC); Less favorable of POR and NOP if 56-60",26,10.64516129032258,1,0.9090909090909091,9.677419354838708
+Houston Rockets,2028,1,26,Own,26,20.625,2,0.8264462809917354,17.045454545454543
+Houston Rockets,2028,2,56,Own (via ATL),26,10.64516129032258,2,0.8264462809917354,8.79765395894428
+Houston Rockets,2029,1,26,"Two most favorable of HOU, DAL and PHX then other to BRK (via DAL and PHX to BRK; via HOU swap for DAL or PHX)",26,20.625,3,0.7513148009015775,15.495867768595037
+Houston Rockets,2029,2,56,To DAL (via OKC to WAS); SAC (via WAS),26,10.64516129032258,3,0.7513148009015775,7.9978672354038896
+Houston Rockets,2030,1,26,Own,26,20.625,4,0.6830134553650705,14.08715251690458
+Houston Rockets,2030,2,56,To OKC,26,10.64516129032258,4,0.6830134553650705,7.270788395821718
+Houston Rockets,2031,1,26,Own,26,20.625,5,0.6209213230591549,12.80650228809507
+Houston Rockets,2031,2,56,31-55 Own or ATL (via ATL swap for HOU); 56-60 to BOS,26,10.64516129032258,5,0.6209213230591549,6.6098076325651975
+Houston Rockets,2032,1,26,Own,26,20.625,6,0.5644739300537772,11.642274807359156
+Houston Rockets,2032,2,56,More favorable of HOU and PHX to CHI then other to PHX (via PHX to MIN),26,10.64516129032258,6,0.5644739300537772,6.008916029604725
+Indiana Pacers,2026,1,5,1-4 and 10-30 Own; 5-9 to LAC,5,59.99999999999999,0,1.0,59.99999999999999
+Indiana Pacers,2026,2,35,More favorable of SAN and less favorable of IND and MIA to SAN then least favorable of all to MIN; Less favorable of BOS and more favorable of IND and MIA to ATL then most favorable of all to MEM or to BRK (via MIA to IND; via SAN swap for IND or MIA; via MIL to MEM; via BOS to ATL); TOR 56-60,5,16.097560975609756,0,1.0,16.097560975609756
+Indiana Pacers,2027,1,5,Own,5,59.99999999999999,1,0.9090909090909091,54.54545454545454
+Indiana Pacers,2027,2,35,"Most favorable of IND, OKC, HOU and MIA to PHL; second most favorable to NOP and third most favorable to NYK; more favorable of SAN and least favorable of IND, OKC, HOU and MIA to SAN then least favorable of all to MIA; UTH (via CLE)",5,16.097560975609756,1,0.9090909090909091,14.634146341463413
+Indiana Pacers,2028,1,5,Own,5,59.99999999999999,2,0.8264462809917354,49.58677685950412
+Indiana Pacers,2028,2,35,More favorable of IND and PHX then other to NYK (via IND),5,16.097560975609756,2,0.8264462809917354,13.303769401330376
+Indiana Pacers,2029,1,5,To LAC,5,59.99999999999999,3,0.7513148009015775,45.07888805409465
+Indiana Pacers,2029,2,35,More favorable of IND and WAS then other to POR (via IND to NYK),5,16.097560975609756,3,0.7513148009015775,12.09433581939125
+Indiana Pacers,2030,1,5,Own,5,59.99999999999999,4,0.6830134553650705,40.98080732190423
+Indiana Pacers,2030,2,35,Own,5,16.097560975609756,4,0.6830134553650705,10.994850744901136
+Indiana Pacers,2031,1,5,To LAC if IND does not convey 1st round pick to LAC in 2026,5,59.99999999999999,5,0.6209213230591549,37.25527938354929
+Indiana Pacers,2031,2,35,"Least favorable of IND, MIA and MEM; more favorable of IND and MIA to WAS; more favorable of MEM and less favorable of IND and MIA to MEM (via MIA swap for IND; via UTH to WAS; via MEM swap for IND or MIA)",5,16.097560975609756,5,0.6209213230591549,9.995318859001031
+Indiana Pacers,2032,1,5,Own,5,59.99999999999999,6,0.5644739300537772,33.86843580322663
+Indiana Pacers,2032,2,35,Own,5,16.097560975609756,6,0.5644739300537772,9.086653508182755
+Los Angeles Clippers,2026,1,27,"Most favorable of LAC, HOU 5-30 and OKC to OKC; second most / more favorable to PHL and least / less favorable to DAL; IND 5-9",27,20.0,0,1.0,20.0
+Los Angeles Clippers,2026,2,57,"Less favorable of LAC and most favorable of BOS, IND and MIA to BRK then most favorable of all to MEM; CLE; MEM 31-42 (via UTH to ATL)",27,10.476190476190476,0,1.0,10.476190476190476
+Los Angeles Clippers,2027,1,27,"Least / less favorable of LAC, DEN 6-30 and OKC then other(s) to OKC (via OKC swap of OKC or DEN for LAC)",27,20.0,1,0.9090909090909091,18.18181818181818
+Los Angeles Clippers,2027,2,57,To UTH (via ATL to LAC),27,10.476190476190476,1,0.9090909090909091,9.523809523809524
+Los Angeles Clippers,2028,1,27,To PHL,27,20.0,2,0.8264462809917354,16.52892561983471
+Los Angeles Clippers,2028,2,57,More favorable of LAC and CHA to CHA then other to DET; DAL (via SAC to IND),27,10.476190476190476,2,0.8264462809917354,8.658008658008658
+Los Angeles Clippers,2029,1,27,1-3 Own; 4-30 Own or PHL (via PHL swap for LAC); IND,27,20.0,3,0.7513148009015775,15.026296018031552
+Los Angeles Clippers,2029,2,57,To SAN (via PHL),27,10.476190476190476,3,0.7513148009015775,7.87091696182605
+Los Angeles Clippers,2030,1,27,Own,27,20.0,4,0.6830134553650705,13.66026910730141
+Los Angeles Clippers,2030,2,57,More favorable of LAC and UTH to CHA then other to LAC (via LAC to UTH),27,10.476190476190476,4,0.6830134553650705,7.155379056205501
+Los Angeles Clippers,2031,1,27,Own; IND if IND does not convey 1st round pick to LAC in 2026,27,20.0,5,0.6209213230591549,12.418426461183099
+Los Angeles Clippers,2031,2,57,Own,27,10.476190476190476,5,0.6209213230591549,6.5048900510959085
+Los Angeles Clippers,2032,1,27,Own,27,20.0,6,0.5644739300537772,11.289478601075544
+Los Angeles Clippers,2032,2,57,Own,27,10.476190476190476,6,0.5644739300537772,5.91353641008719
+Los Angeles Lakers,2026,1,20,Own,20,25.38461538461538,0,1.0,25.38461538461538
+Los Angeles Lakers,2026,2,50,To GOS (via CLE to MIA to TOR),20,11.785714285714285,0,1.0,11.785714285714285
+Los Angeles Lakers,2027,1,20,1-4 Own; 5-30 to MEM (via UTH),20,25.38461538461538,1,0.9090909090909091,23.076923076923073
+Los Angeles Lakers,2027,2,50,To BRK if LAL conveys 1st round pick to MEM in 2027 or to MEM if LAL does not convey 1st round pick to MEM in 2027 (via UTH to MEM),20,11.785714285714285,1,0.9090909090909091,10.714285714285714
+Los Angeles Lakers,2028,1,20,Own,20,25.38461538461538,2,0.8264462809917354,20.979020979020973
+Los Angeles Lakers,2028,2,50,More favorable of LAL and WAS to ORL then other to WAS (via WAS to LAL to ORL; via LAL to WAS),20,11.785714285714285,2,0.8264462809917354,9.740259740259738
+Los Angeles Lakers,2029,1,20,To DAL,20,25.38461538461538,3,0.7513148009015775,19.071837253655428
+Los Angeles Lakers,2029,2,50,To WAS,20,11.785714285714285,3,0.7513148009015775,8.854781582054306
+Los Angeles Lakers,2030,1,20,Own,20,25.38461538461538,4,0.6830134553650705,17.338033866959478
+Los Angeles Lakers,2030,2,50,To BRK,20,11.785714285714285,4,0.6830134553650705,8.049801438231187
+Los Angeles Lakers,2031,1,20,Own,20,25.38461538461538,5,0.6209213230591549,15.761848969963161
+Los Angeles Lakers,2031,2,50,To BRK,20,11.785714285714285,5,0.6209213230591549,7.318001307482897
+Los Angeles Lakers,2032,1,20,Own,20,25.38461538461538,6,0.5644739300537772,14.328953609057418
+Los Angeles Lakers,2032,2,50,To ATL,20,11.785714285714285,6,0.5644739300537772,6.652728461348088
+Memphis Grizzlies,2026,1,8,"Two most favorable of MEM, less favorable of PHX and WAS 1-8, and ORL then least favorable of all to CHA (via WAS swap for PHX; via MEM swap of ORL for PHX or WAS; via PHX to CHA)",8,47.142857142857146,0,1.0,47.142857142857146
+Memphis Grizzlies,2026,2,38,"31-42 to LAC (via UTH to ATL); 43-60 to POR (via UTH to GOS); Most favorable of LAC, BOS, IND and MIA (via MIA to IND; via MIL to MEM; via MEM swap of IND or MIA for BOS; via MEM swap of BOS, IND or MIA for LAC)",8,15.0,0,1.0,15.0
+Memphis Grizzlies,2027,1,8,"Own; LAL 5-30; Most favorable of UTH, CLE and MIN (via UTH)",8,47.142857142857146,1,0.9090909090909091,42.85714285714286
+Memphis Grizzlies,2027,2,38,To HOU (via LAC); LAL if LAL does not convey 1st round pick to MEM in 2027 (via UTH),8,15.0,1,0.9090909090909091,13.636363636363637
+Memphis Grizzlies,2028,1,8,Own,8,47.142857142857146,2,0.8264462809917354,38.96103896103896
+Memphis Grizzlies,2028,2,38,To BRK (via PHX),8,15.0,2,0.8264462809917354,12.396694214876032
+Memphis Grizzlies,2029,1,8,Own or swap for ORL 3-30,8,47.142857142857146,3,0.7513148009015775,35.41912632821723
+Memphis Grizzlies,2029,2,38,To BRK (via PHX); ORL if ORL 1-2 in 2029; POR (via PHL to IND),8,15.0,3,0.7513148009015775,11.269722013523664
+Memphis Grizzlies,2030,1,8,More favorable of MEM and less favorable of PHX and WAS then least favorable of all to PHX; ORL,8,47.142857142857146,4,0.6830134553650705,32.199205752924755
+Memphis Grizzlies,2030,2,38,31-50 Own; 51-60 to MIN,8,15.0,4,0.6830134553650705,10.245201830476057
+Memphis Grizzlies,2031,1,8,Own; PHX (via UTH),8,47.142857142857146,5,0.6209213230591549,29.27200522993159
+Memphis Grizzlies,2031,2,38,More favorable of MEM and less favorable of IND and MIA then least favorable of all to IND (via MIA swap for IND; via MEM swap for IND or MIA),8,15.0,5,0.6209213230591549,9.313819845887323
+Memphis Grizzlies,2032,1,8,Own,8,47.142857142857146,6,0.5644739300537772,26.610913845392357
+Memphis Grizzlies,2032,2,38,Own or swap for PHL; GOS 51-60,8,15.0,6,0.5644739300537772,8.467108950806658
+Miami Heat,2026,1,15,Own,15,31.428571428571427,0,1.0,31.428571428571427
+Miami Heat,2026,2,45,More favorable of SAN and less favorable of MIA and IND to SAN then least favorable of all to MIN; Less favorable of BOS and more favorable of MIA and IND to ATL then most favorable of all to MEM or to BRK; BRK 56-60,15,12.941176470588236,0,1.0,12.941176470588236
+Miami Heat,2027,1,15,1-14 Own; 15-30 to CHA,15,31.428571428571427,1,0.9090909090909091,28.57142857142857
+Miami Heat,2027,2,45,"Least favorable of MIA, OKC, HOU, IND and SAN; most favorable of MIA, OKC, HOU and IND to PHL; second most favorable to NOP and third most favorable to NYK; more favorable of SAN and least favorable of MIA, OKC, HOU and IND to SAN",15,12.941176470588236,1,0.9090909090909091,11.76470588235294
+Miami Heat,2028,1,15,To CHA if not already settled,15,31.428571428571427,2,0.8264462809917354,25.97402597402597
+Miami Heat,2028,2,45,To DET if DAL conveys 1st round pick to CHA in 2027 or to CHA if DAL does not convey 1st round pick to CHA in 2027,15,12.941176470588236,2,0.8264462809917354,10.6951871657754
+Miami Heat,2029,1,15,Own,15,31.428571428571427,3,0.7513148009015775,23.61275088547815
+Miami Heat,2029,2,45,More favorable of MIA and ATL to CHA then other to OKC (via OKC),15,12.941176470588236,3,0.7513148009015775,9.72289742343218
+Miami Heat,2030,1,15,Own,15,31.428571428571427,4,0.6830134553650705,21.466137168616502
+Miami Heat,2030,2,45,To OKC,15,12.941176470588236,4,0.6830134553650705,8.838997657665619
+Miami Heat,2031,1,15,Own,15,31.428571428571427,5,0.6209213230591549,19.514670153287724
+Miami Heat,2031,2,45,More favorable of MIA and IND to WAS; more favorable of MEM and less favorable of MIA and IND to MEM then least favorable of all to IND (via MIA swap for IND; via UTH to WAS; via MEM swap for IND or MIA),15,12.941176470588236,5,0.6209213230591549,8.035452416059652
+Miami Heat,2032,1,15,Own,15,31.428571428571427,6,0.5644739300537772,17.74060923026157
+Miami Heat,2032,2,45,To BRK,15,12.941176470588236,6,0.5644739300537772,7.304956741872411
+Milwaukee Bucks,2026,1,10,Less favorable of MIL and NOP then other to ATL (via NOP swap for MIL),10,41.24999999999999,0,1.0,41.24999999999999
+Milwaukee Bucks,2026,2,40,"Most favorable of MIL, ORL and DET to BOS; second most favorable to ORL and least favorable to NOP (via MIL to ORL; via DET to LAC to ORL); UTH 56-60 (via MIN to SAN)",10,14.347826086956522,0,1.0,14.347826086956522
+Milwaukee Bucks,2027,1,10,More favorable of MIL and NOP to NOP then other to ATL if 5-30 or MIL and NOP to NOP if both 1-4 (via NOP),10,41.24999999999999,1,0.9090909090909091,37.49999999999999
+Milwaukee Bucks,2027,2,40,To DET (via PHL),10,14.347826086956522,1,0.9090909090909091,13.043478260869565
+Milwaukee Bucks,2028,1,10,Less favorable of MIL and POR (with conditions) to WAS (see original for full details),10,41.24999999999999,2,0.8264462809917354,34.09090909090908
+Milwaukee Bucks,2028,2,40,To PHL (via BRK to HOU to OKC),10,14.347826086956522,2,0.8264462809917354,11.857707509881422
+Milwaukee Bucks,2029,1,10,"Most and least favorable of MIL, BOS and POR to POR; second most favorable to WAS (via BOS to POR; via MIL to POR; via POR to WAS)",10,41.24999999999999,3,0.7513148009015775,30.991735537190067
+Milwaukee Bucks,2029,2,40,"Two most favorable of MIL, DET and NYK to DET then other to CHI (via MIL to BRK to DET; via NYK to DET; via SAC to CHI)",10,14.347826086956522,3,0.7513148009015775,10.779734099892199
+Milwaukee Bucks,2030,1,10,Own or POR (via POR swap for MIL),10,41.24999999999999,4,0.6830134553650705,28.174305033809155
+Milwaukee Bucks,2030,2,40,To ORL,10,14.347826086956522,4,0.6830134553650705,9.799758272629273
+Milwaukee Bucks,2031,1,10,Own,10,41.24999999999999,5,0.6209213230591549,25.613004576190136
+Milwaukee Bucks,2031,2,40,To CHA,10,14.347826086956522,5,0.6209213230591549,8.908871156935701
+Milwaukee Bucks,2032,1,10,Own,10,41.24999999999999,6,0.5644739300537772,23.284549614718305
+Milwaukee Bucks,2032,2,40,To CHA,10,14.347826086956522,6,0.5644739300537772,8.098973779032455
+Minnesota Timberwolves,2026,1,29,Less favorable of MIN 1-19 and UTH 1-8; less favorable of MIN 20-30 and DET then other to DET; less favorable of CLE and more favorable of MIN and UTH 1-8 to CLE then most favorable of all to UTH (via UTH swap for MIN; via UTH swap of UTH or MIN for CLE; via DET swap for MIN),29,18.857142857142858,0,1.0,18.857142857142858
+Minnesota Timberwolves,2026,2,59,"Less favorable of MIN and NYK to NYK; most favorable of MIN, NYK, NOP and POR to CHI; less favorable of more favorable of MIN and NYK and more favorable of NOP and POR to WAS; Least favorable of IND, MIA and SAN",29,10.153846153846153,0,1.0,10.153846153846153
+Minnesota Timberwolves,2027,1,29,"Most favorable of MIN, CLE and UTH to MEM; second most favorable to UTH and least favorable to PHX (via UTH)",29,18.857142857142858,1,0.9090909090909091,17.142857142857142
+Minnesota Timberwolves,2027,2,59,To POR (via HOU to OKC to NYK),29,10.153846153846153,1,0.9090909090909091,9.23076923076923
+Minnesota Timberwolves,2028,1,29,Own,29,18.857142857142858,2,0.8264462809917354,15.584415584415583
+Minnesota Timberwolves,2028,2,59,To SAN,29,10.153846153846153,2,0.8264462809917354,8.39160839160839
+Minnesota Timberwolves,2029,1,29,"1-5 Own; most / two most favorable of MIN 6-30, CLE and UTH to UTH then other to CHA (via UTH to PHX)",29,18.857142857142858,3,0.7513148009015775,14.167650531286892
+Minnesota Timberwolves,2029,2,59,To UTH if MIN does not convey 1st round pick to UTH in 2029,29,10.153846153846153,3,0.7513148009015775,7.628734901462171
+Minnesota Timberwolves,2030,1,29,1 Own; less favorable of MIN 2-30 and more favorable of SAN and DAL then most / more favorable of all to SAN (via SAN swap for DAL),29,18.857142857142858,4,0.6830134553650705,12.879682301169902
+Minnesota Timberwolves,2030,2,59,To DET; MEM 51-60,29,10.153846153846153,4,0.6830134553650705,6.9352135467837925
+Minnesota Timberwolves,2031,1,29,To SAC (via SAN),29,18.857142857142858,5,0.6209213230591549,11.708802091972636
+Minnesota Timberwolves,2031,2,59,More favorable of MIN and GOS to CHI then other to DET (via MIN swap for GOS),29,10.153846153846153,5,0.6209213230591549,6.3047395879852655
+Minnesota Timberwolves,2032,1,29,Frozen (through 2027-28),29,18.857142857142858,6,0.5644739300537772,10.644365538156942
+Minnesota Timberwolves,2032,2,59,Own,29,10.153846153846153,6,0.5644739300537772,5.731581443622968
+New Orleans Pelicans,2026,1,7,More favorable of NOP and MIL to ATL then other to MIL (via NOP swap for MIL),7,50.76923076923076,0,1.0,50.76923076923076
+New Orleans Pelicans,2026,2,37,"Most favorable of NOP, POR, MIN and NYK to CHI; less favorable of NOP and POR to SAN; less favorable of more favorable of NOP and POR and more favorable of MIN and NYK to WAS; Least favorable of ORL, DET and MIL (via DET to LAC to ORL; via ORL to PHX to BRK to NYK to NOP)",7,15.348837209302324,0,1.0,15.348837209302324
+New Orleans Pelicans,2027,1,7,More favorable of NOP and MIL then other to ATL if 5-30 or NOP and MIL if both 1-4 (via NOP),7,50.76923076923076,1,0.9090909090909091,46.153846153846146
+New Orleans Pelicans,2027,2,37,"More favorable of NOP and POR to CHA then other to POR [POR may convey to HOU] (via NOP); Second most favorable of OKC, HOU, IND and MIA (via HOU to DET to OKC to NYK)",7,15.348837209302324,1,0.9090909090909091,13.953488372093021
+New Orleans Pelicans,2028,1,7,Own,7,50.76923076923076,2,0.8264462809917354,41.958041958041946
+New Orleans Pelicans,2028,2,37,To SAN,7,15.348837209302324,2,0.8264462809917354,12.684989429175474
+New Orleans Pelicans,2029,1,7,Own,7,50.76923076923076,3,0.7513148009015775,38.143674507310855
+New Orleans Pelicans,2029,2,37,To SAN,7,15.348837209302324,3,0.7513148009015775,11.5318085719777
+New Orleans Pelicans,2030,1,7,Own,7,50.76923076923076,4,0.6830134553650705,34.676067733918956
+New Orleans Pelicans,2030,2,37,Own or ORL (via ORL swap for NOP),7,15.348837209302324,4,0.6830134553650705,10.483462338161546
+New Orleans Pelicans,2031,1,7,Own,7,50.76923076923076,5,0.6209213230591549,31.523697939926322
+New Orleans Pelicans,2031,2,37,More favorable of NOP and ORL to ORL then other to OKC (via ORL swap for NOP); TOR,7,15.348837209302324,5,0.6209213230591549,9.530420307419586
+New Orleans Pelicans,2032,1,7,Own,7,50.76923076923076,6,0.5644739300537772,28.657907218114836
+New Orleans Pelicans,2032,2,37,Own,7,15.348837209302324,6,0.5644739300537772,8.664018461290533
+New York Knicks,2026,1,24,Own; WAS 9-30 (via HOU to OKC),24,22.0,0,1.0,22.0
+New York Knicks,2026,2,54,"Less favorable of NYK and MIN; most favorable of NYK, MIN, NOP and POR to CHI; less favorable of more favorable of NYK and MIN and more favorable of NOP and POR to WAS; WAS if WAS does not convey 1st round pick to NYK in 2026",24,11.0,0,1.0,11.0
+New York Knicks,2027,1,24,To BRK,24,22.0,1,0.9090909090909091,20.0
+New York Knicks,2027,2,54,"Own; WAS if WAS does not convey 1st round pick to NYK in 2026; Third most favorable of OKC, HOU, IND and MIA",24,11.0,1,0.9090909090909091,10.0
+New York Knicks,2028,1,24,"Least or second most favorable of NYK, BRK and PHX (with conditions); complex swap details — see original",24,22.0,2,0.8264462809917354,18.18181818181818
+New York Knicks,2028,2,54,To DET; BOS 46-60 (via ORL to PHX); Less favorable of IND and PHX (via IND),24,11.0,2,0.8264462809917354,9.09090909090909
+New York Knicks,2029,1,24,To BRK,24,22.0,3,0.7513148009015775,16.528925619834705
+New York Knicks,2029,2,54,"Two most favorable of NYK, DET and MIL to DET then other to CHI (via NYK to DET; via MIL to BRK to DET; via SAC to CHI)",24,11.0,3,0.7513148009015775,8.264462809917353
+New York Knicks,2030,1,24,Own,24,22.0,4,0.6830134553650705,15.026296018031552
+New York Knicks,2030,2,54,To ATL (via POR),24,11.0,4,0.6830134553650705,7.513148009015776
+New York Knicks,2031,1,24,To BRK,24,22.0,5,0.6209213230591549,13.660269107301408
+New York Knicks,2031,2,54,To CHI (via CHA),24,11.0,5,0.6209213230591549,6.830134553650704
+New York Knicks,2032,1,24,Own,24,22.0,6,0.5644739300537772,12.418426461183099
+New York Knicks,2032,2,54,Own,24,11.0,6,0.5644739300537772,6.2092132305915495
+Oklahoma City Thunder,2026,1,30,"Most favorable of OKC, HOU 5-30 and LAC; second most / more favorable to PHL and least / less favorable to DAL; PHL 5-30; UTH 9-30",30,18.333333333333332,0,1.0,18.333333333333332
+Oklahoma City Thunder,2026,2,60,"Most favorable of OKC, DAL and PHL; second most favorable to PHX and least favorable to WAS; HOU if HOU 1-4 in 2026",30,10.0,0,1.0,10.0
+Oklahoma City Thunder,2027,1,30,"Two most / more favorable of OKC, DEN 6-30 and LAC then other to LAC; PHL 5-30 if not already settled; SAN 17-30 (via SAC)",30,18.333333333333332,1,0.9090909090909091,16.666666666666664
+Oklahoma City Thunder,2027,2,60,"Most favorable of OKC, HOU, IND and MIA to PHL; second most favorable to NOP and third most favorable to NYK; CHA if SAN 1-16 in 2027; SAC if SAN 1-16 in 2027; PHL if PHL has not conveyed 1st round pick to OKC by 2027",30,10.0,1,0.9090909090909091,9.09090909090909
+Oklahoma City Thunder,2028,1,30,Own or swap for DAL; DEN 6-30 if not already settled,30,18.333333333333332,2,0.8264462809917354,15.151515151515149
+Oklahoma City Thunder,2028,2,60,To PHL; UTH,30,10.0,2,0.8264462809917354,8.264462809917354
+Oklahoma City Thunder,2029,1,30,Own; DEN 6-30 if not already settled,30,18.333333333333332,3,0.7513148009015775,13.774104683195587
+Oklahoma City Thunder,2029,2,60,Own; Less favorable of ATL and MIA; BOS; DEN if DEN has not conveyed a first potential 1st round pick to OKC by 2029,30,10.0,3,0.7513148009015775,7.513148009015776
+Oklahoma City Thunder,2030,1,30,Own; DEN 6-30 if not already settled and if DEN has conveyed a first potential 1st round pick to OKC by 2028,30,18.333333333333332,4,0.6830134553650705,12.521913348359625
+Oklahoma City Thunder,2030,2,60,Own; DEN (direct or via CHA); HOU; MIA,30,10.0,4,0.6830134553650705,6.830134553650705
+Oklahoma City Thunder,2031,1,30,Own,30,18.333333333333332,5,0.6209213230591549,11.38355758941784
+Oklahoma City Thunder,2031,2,60,Own; Less favorable of NOP and ORL (via ORL swap for NOP),30,10.0,5,0.6209213230591549,6.2092132305915495
+Oklahoma City Thunder,2032,1,30,Own,30,18.333333333333332,6,0.5644739300537772,10.348688717652582
+Oklahoma City Thunder,2032,2,60,Own,30,10.0,6,0.5644739300537772,5.644739300537772
+Orlando Magic,2026,1,14,"Two most favorable of ORL, less favorable of PHX and WAS 1-8, and MEM to MEM then least favorable of all to CHA",14,33.0,0,1.0,33.0
+Orlando Magic,2026,2,44,"Second most favorable of ORL, DET and MIL; most favorable to BOS and least favorable to NOP (via MIL to ORL; via DET to LAC to ORL)",14,13.200000000000001,0,1.0,13.200000000000001
+Orlando Magic,2027,1,14,Own,14,33.0,1,0.9090909090909091,30.0
+Orlando Magic,2027,2,44,More favorable of ORL and BOS to UTH then other to CHA (via BOS to ORL to BOS; via ORL to CHA),14,13.200000000000001,1,0.9090909090909091,12.0
+Orlando Magic,2028,1,14,To POR (via MEM),14,33.0,2,0.8264462809917354,27.27272727272727
+Orlando Magic,2028,2,44,To CHA; More favorable of LAL and WAS (via LAL),14,13.200000000000001,2,0.8264462809917354,10.909090909090908
+Orlando Magic,2029,1,14,1-2 Own; 3-30 Own or MEM (via MEM swap for ORL),14,33.0,3,0.7513148009015775,24.79338842975206
+Orlando Magic,2029,2,44,To MEM if ORL 1-2 in 2029,14,13.200000000000001,3,0.7513148009015775,9.917355371900824
+Orlando Magic,2030,1,14,To MEM,14,33.0,4,0.6830134553650705,22.539444027047328
+Orlando Magic,2030,2,44,Own or swap for NOP; MIL,14,13.200000000000001,4,0.6830134553650705,9.015777610818931
+Orlando Magic,2031,1,14,Own,14,33.0,5,0.6209213230591549,20.49040366095211
+Orlando Magic,2031,2,44,More favorable of ORL and NOP then other to OKC (via ORL swap for NOP),14,13.200000000000001,5,0.6209213230591549,8.196161464380845
+Orlando Magic,2032,1,14,Own,14,33.0,6,0.5644739300537772,18.627639691774647
+Orlando Magic,2032,2,44,Own,14,13.200000000000001,6,0.5644739300537772,7.45105587670986
+Philadelphia 76ers,2026,1,13,"1-4 Own; 5-30 to OKC; Second most / more favorable of OKC, HOU 5-30 and LAC (via OKC)",13,34.73684210526316,0,1.0,34.73684210526316
+Philadelphia 76ers,2026,2,43,"Most favorable of PHL, OKC and DAL to OKC; second most favorable to PHX and least favorable to WAS",13,13.469387755102039,0,1.0,13.469387755102039
+Philadelphia 76ers,2027,1,13,1-4 Own; 5-30 to OKC if not already settled,13,34.73684210526316,1,0.9090909090909091,31.57894736842105
+Philadelphia 76ers,2027,2,43,"To OKC if PHL has not conveyed 1st round pick to OKC by 2027; More favorable of GOS and PHX (via WAS); Most favorable of OKC, HOU, IND and MIA",13,13.469387755102039,1,0.9090909090909091,12.244897959183671
+Philadelphia 76ers,2028,1,13,"1-8 Own; complex swap conditions for 9-30 involving BRK, PHX, NYK, WAS; LAC",13,34.73684210526316,2,0.8264462809917354,28.70813397129186
+Philadelphia 76ers,2028,2,43,To BRK if PHL 1-8 in 2028; DET 56-60; GOS (via POR to WAS); MIL (via BRK to HOU to OKC); OKC,13,13.469387755102039,2,0.8264462809917354,11.1317254174397
+Philadelphia 76ers,2029,1,13,Own or swap for LAC 4-30,13,34.73684210526316,3,0.7513148009015775,26.098303610265326
+Philadelphia 76ers,2029,2,43,Own,13,13.469387755102039,3,0.7513148009015775,10.119750379490634
+Philadelphia 76ers,2030,1,13,Own,13,34.73684210526316,4,0.6830134553650705,23.72573055478666
+Philadelphia 76ers,2030,2,43,To DAL; More favorable of PHX and POR (via WAS); WAS,13,13.469387755102039,4,0.6830134553650705,9.199773072264215
+Philadelphia 76ers,2031,1,13,Own,13,34.73684210526316,5,0.6209213230591549,21.56884595889696
+Philadelphia 76ers,2031,2,43,Own,13,13.469387755102039,5,0.6209213230591549,8.363430065694738
+Philadelphia 76ers,2032,1,13,Own,13,34.73684210526316,6,0.5644739300537772,19.60804178081542
+Philadelphia 76ers,2032,2,43,Own or MEM (via MEM swap for PHL),13,13.469387755102039,6,0.5644739300537772,7.603118241540671
+Phoenix Suns,2026,1,17,"More favorable of PHX and WAS 1-8 to WAS; two most favorable of less favorable of PHX and WAS 1-8, MEM and ORL to MEM then least favorable of all to CHA",17,28.695652173913043,0,1.0,28.695652173913043
+Phoenix Suns,2026,2,47,"To DAL (via WAS); Second most favorable of OKC, DAL and PHL (via OKC to HOU)",17,12.452830188679247,0,1.0,12.452830188679247
+Phoenix Suns,2027,1,17,"To HOU (via BRK); Least favorable of UTH, CLE and MIN (via UTH)",17,28.695652173913043,1,0.9090909090909091,26.08695652173913
+Phoenix Suns,2027,2,47,More favorable of PHX and GOS to PHL then other to WAS (via WAS),17,12.452830188679247,1,0.9090909090909091,11.320754716981133
+Phoenix Suns,2028,1,17,"Least favorable of PHX, PHL 9-30 if PHL conveys 1st round pick to OKC in 2026, WAS and BRK (complex swap conditions — see original)",17,28.695652173913043,2,0.8264462809917354,23.715415019762844
+Phoenix Suns,2028,2,47,More favorable of PHX and IND to IND then other to NYK (via IND),17,12.452830188679247,2,0.8264462809917354,10.291595197255575
+Phoenix Suns,2029,1,17,"Two most favorable of PHX, DAL and HOU to HOU then other to BRK (via DAL and PHX to BRK; via HOU swap for DAL or PHX)",17,28.695652173913043,3,0.7513148009015775,21.559468199784398
+Phoenix Suns,2029,2,47,Own (via OKC to CHA),17,12.452830188679247,3,0.7513148009015775,9.355995633868703
+Phoenix Suns,2030,1,17,"Least favorable of PHX, WAS and MEM; more favorable of PHX and WAS to WAS; more favorable of MEM and less favorable of PHX and WAS to MEM (via WAS swap for PHX; via MEM swap for PHX or WAS)",17,28.695652173913043,4,0.6830134553650705,19.599516545258545
+Phoenix Suns,2030,2,47,More favorable of PHX and POR to PHL then other to WAS (via WAS),17,12.452830188679247,4,0.6830134553650705,8.505450576244275
+Phoenix Suns,2031,1,17,To MEM (via UTH),17,28.695652173913043,5,0.6209213230591549,17.817742313871403
+Phoenix Suns,2031,2,47,To CHA,17,12.452830188679247,5,0.6209213230591549,7.732227796585704
+Phoenix Suns,2032,1,17,Frozen (through 2027-28),17,28.695652173913043,6,0.5644739300537772,16.19794755806491
+Phoenix Suns,2032,2,47,Less favorable of PHX and HOU then other to CHI (via PHX to MIN),17,12.452830188679247,6,0.5644739300537772,7.029297996896094
+Portland Trail Blazers,2026,1,12,1-14 Own; 15-30 to CHI,12,36.666666666666664,0,1.0,36.666666666666664
+Portland Trail Blazers,2026,2,42,"Most favorable of POR, NOP, MIN and NYK to CHI; less favorable of POR and NOP to SAN; less favorable of more favorable of POR and NOP and more favorable of MIN and NYK to WAS; MEM 43-60 (via UTH to GOS)",12,13.75,0,1.0,13.75
+Portland Trail Blazers,2027,1,12,1-14 Own; 15-30 to CHI if not already settled,12,36.666666666666664,1,0.9090909090909091,33.33333333333333
+Portland Trail Blazers,2027,2,42,Less favorable of POR and NOP then other to CHA; less favorable of POR and NOP to HOU if 56-60; MIN (via HOU to OKC to NYK),12,13.75,1,0.9090909090909091,12.5
+Portland Trail Blazers,2028,1,12,1-14 Own or swap for MIL; 15-30 to CHI if not already settled; ORL (via MEM),12,36.666666666666664,2,0.8264462809917354,30.303030303030297
+Portland Trail Blazers,2028,2,42,To CHI if POR has not conveyed 1st round pick to CHI by 2028; SAC (via CHI to SAC to MEM),12,13.75,2,0.8264462809917354,11.363636363636363
+Portland Trail Blazers,2029,1,12,"Most and least favorable of POR, BOS and MIL; second most favorable to WAS (via BOS to POR; via MIL to POR; via POR to WAS)",12,36.666666666666664,3,0.7513148009015775,27.548209366391173
+Portland Trail Blazers,2029,2,42,To MEM (via PHL to IND); Less favorable of IND and WAS (via IND to NYK),12,13.75,3,0.7513148009015775,10.330578512396691
+Portland Trail Blazers,2030,1,12,Own or swap for MIL,12,36.666666666666664,4,0.6830134553650705,25.04382669671925
+Portland Trail Blazers,2030,2,42,More favorable of POR and PHX to PHL then other to WAS (via WAS),12,13.75,4,0.6830134553650705,9.391435011269719
+Portland Trail Blazers,2031,1,12,Own,12,36.666666666666664,5,0.6209213230591549,22.76711517883568
+Portland Trail Blazers,2031,2,42,Own,12,13.75,5,0.6209213230591549,8.53766819206338
+Portland Trail Blazers,2032,1,12,Own,12,36.666666666666664,6,0.5644739300537772,20.697377435305164
+Portland Trail Blazers,2032,2,42,Own,12,13.75,6,0.5644739300537772,7.761516538239436
+Sacramento Kings,2026,1,2,Own,2,82.5,0,1.0,82.5
+Sacramento Kings,2026,2,32,Own; CHA 31-55 (via NYK to ATL to SAN),2,17.36842105263158,0,1.0,17.36842105263158
+Sacramento Kings,2027,1,2,Own; SAN 1-16,2,82.5,1,0.9090909090909091,75.0
+Sacramento Kings,2027,2,32,To OKC if SAN 1-16 in 2027; CHA if SAN 17-30 in 2027 (via NYK to ATL to SAN),2,17.36842105263158,1,0.9090909090909091,15.789473684210526
+Sacramento Kings,2028,1,2,Own,2,82.5,2,0.8264462809917354,68.18181818181817
+Sacramento Kings,2028,2,32,To POR (via CHI to SAC to MEM),2,17.36842105263158,2,0.8264462809917354,14.35406698564593
+Sacramento Kings,2029,1,2,Own,2,82.5,3,0.7513148009015775,61.98347107438015
+Sacramento Kings,2029,2,32,To HOU (via WAS),2,17.36842105263158,3,0.7513148009015775,13.049151805132663
+Sacramento Kings,2030,1,2,Own,2,82.5,4,0.6830134553650705,56.34861006761832
+Sacramento Kings,2030,2,32,To SAN (via IND),2,17.36842105263158,4,0.6830134553650705,11.86286527739333
+Sacramento Kings,2031,1,2,Own or SAN (via SAN swap for SAC); MIN (via SAN),2,82.5,5,0.6209213230591549,51.22600915238028
+Sacramento Kings,2031,2,32,To SAN,2,17.36842105263158,5,0.6209213230591549,10.78442297944848
+Sacramento Kings,2032,1,2,Own,2,82.5,6,0.5644739300537772,46.569099229436624
+Sacramento Kings,2032,2,32,Own,2,17.36842105263158,6,0.5644739300537772,9.80402089040771
+San Antonio Spurs,2026,1,19,Own or swap for ATL [ATL may convey to CLE],19,26.400000000000002,0,1.0,26.400000000000002
+San Antonio Spurs,2026,2,49,More favorable of SAN and less favorable of IND and MIA then least favorable of all to MIN; Less favorable of NOP and POR (via NOP to POR to NOP to SAN); UTH 31-55 (via MIN),19,12.0,0,1.0,12.0
+San Antonio Spurs,2027,1,19,1-16 to SAC; 17-30 to OKC (via SAC); ATL,19,26.400000000000002,1,0.9090909090909091,24.0
+San Antonio Spurs,2027,2,49,"More favorable of SAN and least favorable of OKC, HOU, IND and MIA then least favorable of all to MIA",19,12.0,1,0.9090909090909091,10.909090909090908
+San Antonio Spurs,2028,1,19,Own or swap for BOS 2-30,19,26.400000000000002,2,0.8264462809917354,21.818181818181817
+San Antonio Spurs,2028,2,49,Own; BOS 31-45 if BOS 1 in 2028; MIN; NOP,19,12.0,2,0.8264462809917354,9.917355371900825
+San Antonio Spurs,2029,1,19,Own,19,26.400000000000002,3,0.7513148009015775,19.834710743801647
+San Antonio Spurs,2029,2,49,Own; LAC (via PHL); NOP,19,12.0,3,0.7513148009015775,9.01577761081893
+San Antonio Spurs,2030,1,19,"Most / more favorable of SAN, DAL and MIN 2-30; less favorable of SAN and DAL to DAL; less favorable of MIN 2-30 and more favorable of SAN and DAL to MIN (via SAN swap for DAL; via SAN swap of SAN or DAL for MIN)",19,26.400000000000002,4,0.6830134553650705,18.031555221637863
+San Antonio Spurs,2030,2,49,Own; CLE; SAC (via IND),19,12.0,4,0.6830134553650705,8.196161464380847
+San Antonio Spurs,2031,1,19,Own or swap for SAC,19,26.400000000000002,5,0.6209213230591549,16.39232292876169
+San Antonio Spurs,2031,2,49,Own; SAC,19,12.0,5,0.6209213230591549,7.451055876709859
+San Antonio Spurs,2032,1,19,Own,19,26.400000000000002,6,0.5644739300537772,14.90211175341972
+San Antonio Spurs,2032,2,49,Own,19,12.0,6,0.5644739300537772,6.773687160645327
+Toronto Raptors,2026,1,18,Own,18,27.5,0,1.0,27.5
+Toronto Raptors,2026,2,48,31-55 Own; 56-60 to IND,18,12.222222222222221,0,1.0,12.222222222222221
+Toronto Raptors,2027,1,18,Own,18,27.5,1,0.9090909090909091,25.0
+Toronto Raptors,2027,2,48,Own,18,12.222222222222221,1,0.9090909090909091,11.11111111111111
+Toronto Raptors,2028,1,18,Own,18,27.5,2,0.8264462809917354,22.727272727272727
+Toronto Raptors,2028,2,48,Own,18,12.222222222222221,2,0.8264462809917354,10.101010101010099
+Toronto Raptors,2029,1,18,Own,18,27.5,3,0.7513148009015775,20.661157024793383
+Toronto Raptors,2029,2,48,Own,18,12.222222222222221,3,0.7513148009015775,9.182736455463726
+Toronto Raptors,2030,1,18,Own,18,27.5,4,0.6830134553650705,18.782870022539438
+Toronto Raptors,2030,2,48,Own,18,12.222222222222221,4,0.6830134553650705,8.34794223223975
+Toronto Raptors,2031,1,18,Own,18,27.5,5,0.6209213230591549,17.07533638412676
+Toronto Raptors,2031,2,48,To NOP,18,12.222222222222221,5,0.6209213230591549,7.589038392945226
+Toronto Raptors,2032,1,18,Own,18,27.5,6,0.5644739300537772,15.523033076478873
+Toronto Raptors,2032,2,48,To BRK,18,12.222222222222221,6,0.5644739300537772,6.899125811768387
+Utah Jazz,2026,1,3,"Most favorable of UTH 1-8, MIN and CLE; less favorable of UTH 1-8 and MIN to MIN; less favorable of CLE and more favorable of UTH 1-8 and MIN to CLE; UTH 9-30 to OKC (via UTH swap for MIN; via UTH swap of UTH or MIN for CLE)",3,73.33333333333333,0,1.0,73.33333333333333
+Utah Jazz,2026,2,33,31-55 to SAN; 56-60 to MIL (via MIN to SAN),3,16.923076923076923,0,1.0,16.923076923076923
+Utah Jazz,2027,1,3,"Second most favorable of UTH, CLE and MIN; most favorable to MEM and least favorable to PHX (via UTH)",3,73.33333333333333,1,0.9090909090909091,66.66666666666666
+Utah Jazz,2027,2,33,To IND (via CLE); More favorable of BOS and ORL (via BOS to ORL to BOS); DEN (via CLE to CHI to BOS); LAC (via ATL to LAC),3,16.923076923076923,1,0.9090909090909091,15.384615384615385
+Utah Jazz,2028,1,3,Own or swap for CLE [CLE may convey UTH to ATL],3,73.33333333333333,2,0.8264462809917354,60.606060606060595
+Utah Jazz,2028,2,33,"To OKC; CLE; Least favorable of DET 31-55, less favorable of CHA and LAC, MIA if DAL conveys 1st round pick to CHA in 2027, and NYK (via DET)",3,16.923076923076923,2,0.8264462809917354,13.986013986013985
+Utah Jazz,2029,1,3,"Most / two most favorable of UTH, CLE and MIN 6-30 then other to CHA (via UTH to PHX)",3,73.33333333333333,3,0.7513148009015775,55.09641873278235
+Utah Jazz,2029,2,33,Own; MIN if MIN does not convey 1st round pick to UTH in 2029,3,16.923076923076923,3,0.7513148009015775,12.71455816910362
+Utah Jazz,2030,1,3,Own,3,73.33333333333333,4,0.6830134553650705,50.0876533934385
+Utah Jazz,2030,2,33,Less favorable of UTH and LAC then other to CHA (via LAC to UTH),3,16.923076923076923,4,0.6830134553650705,11.558689244639655
+Utah Jazz,2031,1,3,Own,3,73.33333333333333,5,0.6209213230591549,45.53423035767136
+Utah Jazz,2031,2,33,Own; More favorable of BOS and CLE (via CLE to ATL to BOS),3,16.923076923076923,5,0.6209213230591549,10.507899313308776
+Utah Jazz,2032,1,3,Own,3,73.33333333333333,6,0.5644739300537772,41.39475487061033
+Utah Jazz,2032,2,33,To WAS; CLE,3,16.923076923076923,6,0.5644739300537772,9.552635739371615
+Washington Wizards,2026,1,1,"1-8 Own or swap for PHX; two most favorable of less favorable of WAS 1-8 and PHX, MEM and ORL to MEM then least favorable of all to CHA; WAS 9-30 to NYK (via HOU to OKC)",1,94.28571428571428,0,1.0,94.28571428571428
+Washington Wizards,2026,2,31,"To NYK if WAS does not convey 1st round pick to NYK in 2026; Less favorable of more favorable of MIN and NYK and more favorable of NOP and POR; Least favorable of OKC, DAL and PHL (via OKC to MIA to SAN)",1,17.83783783783784,0,1.0,17.83783783783784
+Washington Wizards,2027,1,1,Own,1,94.28571428571428,1,0.9090909090909091,85.71428571428571
+Washington Wizards,2027,2,31,To NYK if WAS does not convey 1st round pick to NYK in 2026; More favorable of BRK and DAL (via DAL to BRK to DET; via DET to WAS); Less favorable of GOS and PHX,1,17.83783783783784,1,0.9090909090909091,16.216216216216218
+Washington Wizards,2028,1,1,"More favorable of WAS and least / less favorable of BRK, PHL 9-30 and PHX; complex swap with MIL and POR (see original for full conditions)",1,94.28571428571428,2,0.8264462809917354,77.9220779220779
+Washington Wizards,2028,2,31,Less favorable of WAS and LAL then other to ORL (via WAS to LAL to ORL; via LAL to WAS); DEN 34-60 (via SAN to SAC),1,17.83783783783784,2,0.8264462809917354,14.74201474201474
+Washington Wizards,2029,1,1,"Own; Second most favorable of POR, BOS and MIL (via BOS to POR; via MIL to POR; via POR to WAS)",1,94.28571428571428,3,0.7513148009015775,70.83825265643445
+Washington Wizards,2029,2,31,More favorable of WAS and IND to IND then other to POR (via IND to NYK); LAL,1,17.83783783783784,3,0.7513148009015775,13.401831583649763
+Washington Wizards,2030,1,1,More favorable of WAS and PHX; more favorable of MEM and less favorable of WAS and PHX to MEM then least favorable of all to PHX,1,94.28571428571428,4,0.6830134553650705,64.3984115058495
+Washington Wizards,2030,2,31,To PHL; Less favorable of PHX and POR,1,17.83783783783784,4,0.6830134553650705,12.18348325786342
+Washington Wizards,2031,1,1,Own,1,94.28571428571428,5,0.6209213230591549,58.54401045986317
+Washington Wizards,2031,2,31,Own; More favorable of MIA and IND (via MIA swap for IND; via UTH),1,17.83783783783784,5,0.6209213230591549,11.075893870784926
+Washington Wizards,2032,1,1,Own,1,94.28571428571428,6,0.5644739300537772,53.22182769078471
+Washington Wizards,2032,2,31,Own; UTH,1,17.83783783783784,6,0.5644739300537772,10.068994427986297
